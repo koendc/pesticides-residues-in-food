@@ -7,7 +7,7 @@ Usage:
 
 Defaults:
     INPUT_CSV  – input/AR2023.CSV
-    OUTPUT_DIR – current directory (where this script lives)
+    OUTPUT_DIR – docs/ directory next to this script
 
 Output files:
     combined_mrl_by_product.csv   – per-product pesticide load and detection counts
@@ -103,7 +103,7 @@ if __name__ == "__main__":
     script_dir = Path(__file__).parent
 
     input_csv = Path(sys.argv[1]) if len(sys.argv) > 1 else script_dir / "input" / "AR2023.CSV"
-    output_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else script_dir
+    output_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else script_dir / "docs"
 
     if not input_csv.exists():
         print(f"Error: input file not found: {input_csv}", file=sys.stderr)

@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw source data (large file, not for publishing)
+input/
+
+# Notebook (source/analysis artifact, not needed for the site)
+pesticides.ipynb
