@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pesticide residues in food</title>
+    <meta
+      name="description"
+      content="An overview of pesticide residues in food: how much was found, how often legal limits were exceeded, and how organic and conventionally grown products compare."
+    >
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__content layout">
+        <p class="eyebrow">Pesticide residues in food</p>
+        <div class="hero__topline">
+          <div>
+            <h1>How much pesticide residue is in the food we eat?</h1>
+            <p class="hero__lede">
+              Based on the 2023 EU Report on Pesticide Residues in Food, explore pesticide residue levels across
+              hundreds of foods, see where legal limits are exceeded, and compare organically and conventionally
+              grown products.
+            </p>
+          </div>
+        </div>
+        <div class="hero__chips">
+          <span class="chip">Food rankings</span>
+          <span class="chip">Organic vs conventional</span>
+          <span class="chip">Search by food</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="panel notice" id="error-notice" hidden></section>
+
+      <section class="panel intro-grid">
+        <div>
+          <p class="section-label">What these figures show</p>
+          <h2>Three ways to understand pesticide levels</h2>
+          <p>
+            <strong>Pesticide load score</strong> adds up how close each detected substance is to its legal limit — the
+            higher the score, the more residue was found relative to what is permitted.
+            <strong>Pesticides detected</strong> counts how many different pesticide substances were found in a sample.
+            <strong>Legal limit exceedance rate</strong> shows how often a single measurement was above the permitted
+            maximum (MRL).
+          </p>
+        </div>
+        <div class="metric-cards" id="summary-cards"></div>
+      </section>
+
+      <section class="panel narrative">
+        <div>
+          <p class="section-label">How to read this</p>
+          <h2>No single number tells the whole story</h2>
+          <p>
+            A food can contain many different pesticides without any single one breaching the legal limit. Conversely,
+            a low average can hide occasional spikes above the limit. The three sections below are designed to be read
+            together.
+          </p>
+        </div>
+        <div class="callout">
+          <p class="callout__title">About sample sizes</p>
+          <p>
+            Results from small sample sizes can be unreliable. Use the minimum samples filter to focus on foods with
+            enough data to draw meaningful conclusions.
+          </p>
+        </div>
+      </section>
+
+      <section class="panel section-block">
+        <div class="section-heading">
+          <div>
+            <p class="section-label">1. Pesticide load</p>
+            <h2>Which foods had the highest overall pesticide levels?</h2>
+          </div>
+          <p class="section-copy">
+            Switch between average and median to see whether a ranking reflects typical results or is influenced by a
+            few outlier samples.
+          </p>
+        </div>
+        <div class="controls">
+          <label>
+            Measure
+            <select id="combined-metric"></select>
+          </label>
+          <label>
+            Production type
+            <select id="combined-organic"></select>
+          </label>
+          <label>
+            Minimum samples
+            <select id="combined-threshold"></select>
+          </label>
+          <label>
+            Sort order
+            <select id="combined-sort"></select>
+          </label>
+        </div>
+        <div class="chart-shell">
+          <div class="chart-header">
+            <h3 id="combined-chart-title"></h3>
+            <p id="combined-chart-caption"></p>
+          </div>
+          <div class="chart" id="combined-chart"></div>
+        </div>
+      </section>
+
+      <section class="panel section-block">
+        <div class="section-heading">
+          <div>
+            <p class="section-label">2. Legal limit breaches</p>
+            <h2>Which foods most often exceeded the legal limit?</h2>
+          </div>
+          <p class="section-copy">
+            Each bar shows the percentage of individual residue tests that exceeded the legal maximum (MRL). The
+            numbers show how many tests were above the limit out of the total tested.
+          </p>
+        </div>
+        <div class="controls">
+          <label>
+            Production type
+            <select id="exceedance-organic"></select>
+          </label>
+          <label>
+            Minimum samples
+            <select id="exceedance-threshold"></select>
+          </label>
+          <label>
+            Sort order
+            <select id="exceedance-sort"></select>
+          </label>
+        </div>
+        <div class="chart-shell">
+          <div class="chart-header">
+            <h3 id="exceedance-chart-title"></h3>
+            <p id="exceedance-chart-caption"></p>
+          </div>
+          <div class="chart" id="exceedance-chart"></div>
+        </div>
+      </section>
+
+      <section class="panel section-block">
+        <div class="section-heading">
+          <div>
+            <p class="section-label">3. Organic vs conventional</p>
+            <h2>How do organic and conventional products compare?</h2>
+          </div>
+          <p class="section-copy">
+            Green bars point right when organic is higher; orange bars point left when conventional is higher.
+            Only foods tested under both production methods are shown.
+          </p>
+        </div>
+        <div class="controls">
+          <label>
+            Comparison
+            <select id="gap-metric"></select>
+          </label>
+          <label>
+            Minimum samples
+            <select id="gap-threshold"></select>
+          </label>
+          <label>
+            Sort order
+            <select id="gap-sort"></select>
+          </label>
+        </div>
+        <div class="chart-shell">
+          <div class="chart-header">
+            <h3 id="gap-chart-title"></h3>
+            <p id="gap-chart-caption"></p>
+          </div>
+          <div class="chart" id="gap-chart"></div>
+        </div>
+      </section>
+
+      <section class="panel section-block">
+        <div class="section-heading">
+          <div>
+            <p class="section-label">4. Food explorer</p>
+            <h2>Look up a specific food</h2>
+          </div>
+          <p class="section-copy">
+            Choose a food to see its full pesticide profile, with organic and conventional results shown side by side.
+          </p>
+        </div>
+        <div class="controls product-search">
+          <label class="product-search__input">
+            Product
+            <input id="product-search" list="product-options" placeholder="Start typing a product name">
+            <datalist id="product-options"></datalist>
+          </label>
+        </div>
+        <div id="product-summary" class="product-summary"></div>
+        <div id="product-panels" class="product-panels"></div>
+      </section>
+
+      <section class="panel methodology">
+        <p class="section-label">Methodology</p>
+        <h2>How these figures are calculated</h2>
+        <div class="method-grid">
+          <div>
+            <h3>Legal limit exceedances</h3>
+            <p>
+              A result is counted as exceeding the legal limit when the measured residue is above the Maximum Residue
+              Level (MRL) set for that substance and food combination.
+            </p>
+          </div>
+          <div>
+            <h3>Pesticide load score</h3>
+            <p>
+              For each food sample, all individual substance levels are added together as a fraction of their
+              respective limits. A score of 1.0 means the combined residues equal the sum of all permitted levels.
+              The number of distinct pesticides found in each sample is also recorded.
+            </p>
+          </div>
+          <div>
+            <h3>Organic vs conventional</h3>
+            <p>
+              Each food sample is labelled as either organically or conventionally grown. Both production types are
+              analysed separately so they can be compared directly.
+            </p>
+          </div>
+        </div>
+        <div class="source-line">
+          <p>
+            <strong>Data source:</strong>
+            <a href="https://zenodo.org/records/14765085" target="_blank" rel="noopener noreferrer">
+              2023 EU Report on Pesticide Residues in Food
+            </a>
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer layout">
+      <p>
+        Data source:
+        <a href="https://zenodo.org/records/14765085" target="_blank" rel="noopener noreferrer">
+          2023 EU Report on Pesticide Residues in Food
+        </a>
+      </p>
+    </footer>
+
+    <div class="tooltip" id="tooltip" hidden></div>
+    <script src="script.js"></script>
+  </body>
+</html>

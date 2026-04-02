@@ -1,0 +1,1560 @@
+sampMatCode.base.building.DESC,organic,mean,sum,count
+Agretti,0,0.0,0,290
+Alfalfa infusion leaves,1,0.0,0,363
+Alkekengi,0,0.0005532503457814661,2,3615
+Allspice fruit,0,0.0,0,1831
+Almonds,0,0.00011728141675951445,2,17053
+Almonds,1,0.0,0,616
+Almonds and similar-,0,0.0,0,1585
+Almonds sweet,0,0.0006042296072507553,1,1655
+Almonds sweet,1,0.0,0,2741
+Aloe vera juice,0,0.0,0,313
+Amaranth grains,0,0.0,0,441
+Amaranth grains,1,0.0,0,641
+Amaranth leaves,0,0.0,0,308
+Ambarellas,0,0.0,0,3
+American persimmons,0,0.0,0,821
+American persimmons and similar-,0,0.0018726591760299626,1,534
+American plums,0,0.0,0,1450
+Angled luffas,0,0.0,0,431
+Animal liver,0,0.0,0,72
+Anise seed,0,0.0017605633802816902,1,568
+Anise seed and similar-,0,0.0,0,73
+Annatto seed,0,0.0,0,275
+Apples,0,0.0001143954202042207,69,603171
+Apples,1,2.9015363635044757e-05,2,68929
+Apples and similar-,0,0.0,0,26525
+Apples and similar-,1,0.0,0,4513
+Apricots,0,0.00019299494885633854,29,150263
+Apricots,1,0.0,0,6853
+Apricots and similar-,0,0.00020060180541624874,2,9970
+Apricots and similar-,1,0.0,0,418
+Arabian coffee beans,1,0.0,0,583
+Aromatic herbs,0,0.0005959475566150178,1,1678
+Aronia berries,0,0.000847457627118644,1,1180
+Aronia berries,1,0.0,0,238
+Arrowroots,0,0.0,0,431
+Asiatic pennywort,0,0.003246753246753247,2,616
+Asparagus,0,6.771626883358727e-05,12,177210
+Asparagus,1,0.0,0,4374
+Asparagus and similar-,0,0.0,0,2415
+Asparagus peas (with pods),0,0.0,0,145
+Ass milk,0,0.0,0,9
+Aubergines,0,9.040263071655385e-05,16,176986
+Aubergines,1,0.0,0,7808
+Aubergines and similar-,0,0.0,0,14059
+Aubergines and similar-,1,0.0,0,414
+Avocados,0,9.478573158787164e-05,9,94951
+Avocados,1,0.0,0,8369
+Avocados and similar-,0,0.0,0,7880
+Avocados and similar-,1,0.0,0,951
+Azaroles,0,0.0,0,166
+Azuki beans (dry),0,0.001049317943336831,1,953
+Azuki beans (dry),1,0.0,0,318
+Baby carrots,0,0.0,0,870
+Baby carrots,1,0.0,0,272
+Baby corn,0,0.0006720430107526882,1,1488
+Baby leaf chards,0,0.0,0,906
+Baby leaf crops (including brassica species) and similar-,0,0.0,0,2930
+Baby leaf escaroles,0,0.0,0,1484
+Baby leaf lettuces,0,0.0013531799729364006,1,739
+Baby leaf spinaches,0,0.0001264702162640698,2,15814
+Baby leaf spinaches,1,0.0,0,993
+Bacon,0,0.0,0,110
+Baels,0,0.0,0,327
+Balsam pear leaves,0,0.0,0,145
+Bananas and similar-,0,7.87825470397458e-05,6,76159
+Bananas and similar-,1,0.0,0,25293
+Barley and similar-,0,0.0,0,1289
+Barley and similar-,1,0.0,0,2880
+Barley coffee ingredient,0,0.0,0,556
+Barley coffee ingredient,1,0.0,0,278
+Barley flour,0,0.0,0,194
+Barley flour,1,0.0,0,1098
+"Barley grain, pearled",0,0.0,0,5186
+"Barley grain, pearled",1,0.0,0,3391
+Barley grains,0,4.568922191255083e-05,2,43774
+Barley grains,1,0.0,0,8632
+Barley groats,0,0.0,0,1510
+Barley malt syrup,0,0.0,0,924
+Barley rolled grains,0,0.0,0,352
+Basil,0,0.0014242115971515768,42,29490
+Basil,1,0.0,0,6359
+"Basil, dry",0,0.0022552151851155796,12,5321
+"Basil, dry",1,0.0,0,195
+Basils and mints,0,0.0,0,1585
+"Bay leaves, dry",0,0.0,0,819
+"Bay leaves, dry",1,0.0,0,471
+Beans (dry) and similar-,0,0.00042876008300795206,75,174923
+Beans (dry) and similar-,1,0.00023986567522187575,3,12507
+Beans (fresh seeds without pods) and similar-,0,0.00025031289111389235,1,3995
+Beans (with pods) and similar-,0,0.00020995381016176442,21,100022
+Beans (with pods) and similar-,1,0.0,0,1699
+Beef kidney,0,0.0,0,193
+Beef liver,0,0.0007347201175552188,32,43554
+Beef liver,1,0.0016194331983805667,2,1235
+Beefsteak tomato,0,0.0011299435028248588,1,885
+Beetroot leaves,0,0.0005930807248764415,9,15175
+Beetroot leaves,1,0.0,0,254
+Beetroots,0,0.0001453780948759813,13,89422
+Beetroots,1,0.0,0,19782
+Beetroots and similar-,0,0.0,0,2186
+Beetroots and similar-,1,0.0,0,317
+Bilberries (European blueberries),0,0.0,0,2237
+"Biscuits, rusks and cookies for children",0,7.031854299978904e-05,1,14221
+"Biscuits, rusks and cookies for children",1,0.0,0,1623
+Black cherries,1,0.0,0,308
+Black eyed peas (dry),0,0.0019364833462432224,10,5164
+Black kale,1,0.0,0,431
+Black pepper,0,0.00025581990278843696,1,3909
+Black pepper,1,0.0,0,548
+Black radishes,0,0.001597444089456869,1,626
+Blackberries,0,6.212337702677517e-05,2,32194
+Blackberries,1,0.0,0,1364
+Blackberries and similar-,0,0.0,0,1
+Blackcurrants,0,0.0003401360544217687,6,17640
+Blackcurrants,1,0.0,0,1974
+"Blond psyllium (infusion seeds, husks)",1,0.0,0,275
+Blood oranges,0,0.0005396654074473826,1,1853
+Blueberries,0,8.978848398558253e-05,7,77961
+Blueberries,1,0.0004472938720739526,3,6707
+Blueberries and similar-,0,0.0,0,4328
+Blueberries and similar-,1,0.0,0,634
+Bog bilberries,0,0.0034482758620689655,3,870
+Boiled eggs,0,0.0,0,29
+Borlotti or other common beans (dry),0,7.445184826713323e-05,2,26863
+Borlotti or other common beans (dry),1,0.0,0,2234
+Borlotti or other common beans (without pods),0,0.0,0,566
+Bottle gourds,0,0.0,0,145
+"Bovine edible offal, non-muscle, other than liver and kidney",0,0.0,0,64
+Bovine fat tissue,0,0.0,0,59568
+Bovine fresh meat,0,4.4581160001783245e-05,1,22431
+Bovine fresh meat,1,0.0,0,3085
+Bovine kidney,0,0.0,0,4
+Bovine liver,0,0.000245485789100431,9,36662
+Bovine liver,1,0.0005608524957936063,1,1783
+Bovine other slaughtering products,0,0.0,0,63
+"Bovine, minced meat",0,0.000397456279809221,1,2516
+"Bovine, minced meat",1,0.0,0,172
+Boysenberries,0,0.0,0,550
+Brazil nuts,0,0.00019519812609798947,1,5123
+Brazil nuts,1,0.0,0,812
+Brazil nuts and similar-,0,0.0,0,125
+Broad beans (dry),0,0.00025144581342720644,1,3977
+Broad beans (with pods),0,0.0,0,2065
+Broad beans (without pods),0,0.0005220114842526536,6,11494
+Broccoli,0,0.00012270691453463402,14,114093
+Broccoli,1,0.0,0,12850
+Broccoli and similar-,0,0.0,0,7795
+Broccoli and similar-,1,0.0,0,1351
+Brown cane sugar,0,0.0,0,1839
+Brown cane sugar,1,0.0,0,616
+Brussels sprouts,0,9.179575444635685e-05,8,87150
+Brussels sprouts,1,0.0,0,1135
+Brussels sprouts and similar-,0,0.0,0,1217
+Buckwheat,0,0.0001890359168241966,3,15870
+Buckwheat,1,0.0,0,3823
+Buckwheat and other pseudo-cereals and similar-,0,0.0,0,34
+Buckwheat and other pseudo-cereals and similar-,1,0.0,0,317
+Buckwheat flour,0,0.0001413427561837456,1,7075
+Buckwheat flour,1,0.0,0,2540
+Buckwheat groats,0,0.00031107424305267526,6,19288
+Bulgur,0,0.00011723329425556858,1,8530
+Bulgur,1,0.0,0,616
+"Burdock, greater or edible",0,0.0,0,272
+Butter,0,0.0,0,4494
+Butter,1,0.0,0,918
+Butternut squashes,0,0.0,0,5952
+Butternut squashes,1,0.0,0,1048
+Calabrese,0,0.0,0,144
+Calf fresh meat,0,0.0,0,2707
+Calf fresh meat,1,0.0,0,196
+Canarium nuts (indicum),0,0.0,0,271
+"Candied fruit, mixed fruit",0,0.0,0,306
+Canned mushrooms,0,0.0,0,217
+Canned mushrooms,1,0.0,0,1000
+Canned or jarred apple,0,0.0,0,237
+Canned or jarred apple,1,0.0,0,472
+Canned or jarred chickpea,0,0.0,0,1286
+Canned or jarred common beans,0,0.0,0,272
+Canned or jarred common beans,1,0.0,0,272
+Canned or jarred fruit,0,0.0,0,1685
+Canned or jarred fruit,1,0.0,0,414
+Canned or jarred peach,0,0.0,0,1135
+Canned or jarred pear,0,0.0,0,1204
+Canned or jarred peas,0,0.0,0,3939
+Canned or jarred pineapple,0,0.0,0,3298
+Canned or jarred plum,0,0.0,0,2781
+Canned or jarred plum,1,0.0,0,414
+Canned or jarred sour cherry,0,0.0,0,7863
+Canned or jarred sweet cherry,0,0.0,0,414
+Canned/jarred vegetables,0,0.0023437866216659635,50,21333
+Canned/jarred vegetables,1,0.0,0,3460
+Cape gooseberries,0,0.0,0,748
+Capers buds,0,0.0,0,910
+Capers buds,1,0.0,0,308
+Capsicum annuum hot cultivars,0,0.0,0,822
+Carambolas,0,0.0,0,3518
+Carambolas,1,0.0,0,273
+Caraway fruit,0,0.0,0,1057
+Cardamom fruit,0,0.0,0,1353
+Cardamom fruit and similar-,0,0.025889967637540454,8,309
+Cardoons and similar-,0,0.0,0,145
+Carobs,0,0.0,0,1
+Carrots,0,0.00011161273569648625,49,439018
+Carrots,1,1.8925056775170325e-05,2,105680
+Carrots and similar-,0,0.00019070867343046763,5,26218
+Carrots and similar-,1,0.0004023335345001006,2,4971
+Cashew nuts,0,0.00015093580197222782,3,19876
+Cashew nuts,1,0.0,0,4170
+Cashew nuts and similar-,0,0.0,0,3470
+Cassava flour,0,0.0,0,928
+Cassava leaves,0,0.0013869625520110957,1,721
+Cassava roots,0,0.0005630630630630631,1,1776
+Cassava roots and similar-,0,0.0,0,2250
+Cassia bark (generic),0,0.0,0,546
+Cassia bark (generic),1,0.0,0,456
+Cattle fresh fat tissue,0,0.009771986970684038,27,2763
+Cattle fresh fat tissue,1,0.0,0,26
+Cattle milk,0,0.00027975940691005733,2,7149
+Cauliflowers,0,9.034006581919082e-05,28,309940
+Cauliflowers,1,6.005284650492433e-05,1,16652
+Cauliflowers and similar-,0,7.467144563918757e-05,1,13392
+Cauliflowers and similar-,1,0.0,0,3554
+Celeriacs,0,0.0003700915019334091,29,78359
+Celeriacs,1,0.0,0,7317
+Celeriacs and similar-,0,0.0,0,123
+Celeries,0,0.0006237354144797894,41,65733
+Celeries,1,0.0,0,3313
+Celeries and similar-,0,0.0006048387096774194,3,4960
+Celeries and similar-,1,0.0,0,526
+Celery leaves,0,0.000422237860661506,15,35525
+Celery leaves and similar-,0,0.0,0,1815
+Celery seed,0,0.0,0,1
+Ceps,0,0.002190100744634253,10,4566
+Cereal and cereal-like flours,0,0.0,0,2996
+Cereal and cereal-like flours,1,0.0,0,634
+Cereal bran,1,1.0,1,1
+Cereal flakes and similar,0,0.0,0,1517
+Cereal grains (and cereal-like grains),0,0.00019743336623889436,6,30390
+Cereal grains (and cereal-like grains),1,0.0,0,152
+Cereal rolled grains,0,0.0,0,758
+Cereal rolled grains,1,0.0,0,887
+Cereals with an added high protein food reconstituted,0,0.0,0,68
+Cereals with an added high protein food reconstituted,1,0.0,0,68
+Cereals with an added high protein food which have to be reconstituted with water or other protein-free liquid,0,0.0,0,248
+Cereals with an added high protein food which have to be reconstituted with water or other protein-free liquid,1,0.001451378809869376,1,689
+Chamomile,0,0.0013315579227696406,4,3004
+Chamomile,1,0.0,0,1088
+Chamomile and similar-,0,0.012326656394453005,8,649
+Champagne-like wine,0,0.0,0,360
+Champagne-like wine,1,0.0,0,257
+Chanterelles,0,0.0007990411506192569,12,15018
+Chanterelles,1,0.0,0,472
+Chards,0,0.0006594441827602449,14,21230
+Chards,1,0.0,0,1221
+Chards and similar-,0,0.0003448275862068965,1,2900
+Chards and similar-,1,0.0,0,510
+Chayote fruits,0,0.0,0,1725
+Cheese,0,0.0,0,3772
+Cheese,1,0.0,0,414
+Cheese curd,0,0.0,0,40
+"Cheese, appenzeller",0,0.0,0,156
+"Cheese, asiago",0,0.0,0,55
+"Cheese, boilie",1,0.0,0,176
+"Cheese, butterkase",1,0.0,0,38
+"Cheese, emmental",0,0.0,0,228
+"Cheese, emmental",1,0.0,0,176
+"Cheese, feta",0,0.0,0,509
+"Cheese, feta",1,0.0,0,144
+"Cheese, fontina",1,0.0,0,176
+"Cheese, grana padano",0,0.0,0,156
+"Cheese, gruyere",0,0.0,0,156
+"Cheese, parmigiano reggiano",0,0.0,0,78
+"Cheese, provolone",0,0.0,0,241
+"Cheese, ricotta salata",0,0.0,0,79
+"Cheese, roquefort",0,0.0,0,18
+"Cheese, saga",1,0.0,0,176
+"Cheese, scamorza",0,0.0,0,441
+"Cheese, taleggio",0,0.0,0,55
+"Cheese, toma piemontese",0,0.0,0,182
+Cherimoyas,0,0.001896505012191818,7,3691
+Cherries (sweet),0,0.00019873998847308067,40,201268
+Cherries (sweet),1,0.0,0,1094
+Cherries and similar-,0,9.212910358382213e-05,3,32563
+Cherries and similar-,1,0.0,0,511
+Cherry tomatoes,0,0.0005617526683251745,7,12461
+Cherry tomatoes,1,0.0,0,1871
+Chervil,0,0.0011857707509881424,3,2530
+Chestnut puree (castanea vulgaris),1,0.0,0,308
+Chestnuts,0,0.0,0,9812
+Chestnuts,1,0.0,0,315
+Chia seeds,0,0.00015382248884786957,1,6501
+Chia seeds,1,0.0,0,8758
+"Chicken fat, processed",0,0.0,0,850
+Chicken fresh meat,0,0.00015912164850027846,4,25138
+Chicken fresh meat,1,0.0,0,200
+Chicken liver,0,0.0013778322106552357,36,26128
+"Chicken, fresh fat tissue",0,5.628887450395429e-05,2,35531
+"Chicken, fresh fat tissue",1,0.0,0,179
+Chickling vetches (dry),0,0.0,0,84
+Chickpea flour,0,0.0,0,948
+Chickpea flour,1,0.0,0,2642
+Chickpeas (dry),0,0.00017208742040956807,4,23244
+Chickpeas (dry),1,0.0,0,5645
+Chickpeas (with pods),0,0.0004379242391066346,4,9134
+Chickpeas (with pods),1,0.0,0,2832
+Chickpeas (without pods),0,0.0,0,317
+Chili peppers,0,0.0017264634475316967,128,74140
+Chili peppers,1,0.0,0,1320
+Chinese cabbages,0,0.00021939981960459278,18,82042
+Chinese cabbages,1,0.0,0,1299
+Chinese cabbages and similar-,0,0.0,0,5389
+Chinese chives sprouts,0,0.005154639175257732,2,388
+Chinese jujubes,0,0.0,0,170
+Chinese persimmons,0,0.0,0,3164
+Chinese wolfberries,0,0.0,0,2459
+Chinese wolfberries,1,0.0,0,1052
+Chinottos,0,7.051937519833575e-05,2,28361
+Chironjas,0,0.0,0,5437
+Chironjas,1,0.0,0,871
+Chives,0,0.00033651621587515247,8,23773
+Chives,1,0.0,0,1891
+Chives and similar-,0,0.002103049421661409,2,951
+Cider,0,0.0,0,871
+Cider,1,0.0,0,2120
+Cinnamon bark,0,0.0006843065693430657,3,4384
+Cinnamon bark,1,0.0,0,275
+Cinnamon bark and similar-,0,0.0,0,310
+Citrons,0,0.0,0,1376
+Citrons,1,0.0,0,515
+Citrus fruit peel,0,0.0,0,301
+Citrus fruits,0,0.000267022696929239,1,3745
+Clementines,0,5.1468790612092595e-05,4,77717
+Clementines,1,0.0,0,11158
+Clotted cream,0,0.0,0,279
+Cloves buds,0,0.001277139208173691,1,783
+Cloves buds,1,0.0,0,308
+Cloves buds and similar-,0,0.0,0,3
+Cocoa beans (fermented or dried),0,0.00042753313381787086,4,9356
+Cocoa beans (fermented or dried),1,0.00027085590465872155,1,3692
+Cocoa beans and similar-,0,0.0,0,683
+Cocoa beans and similar-,1,0.0,0,254
+Cocoa ingredients (RPC derivatives),0,0.0,0,108
+Cocoa mass,1,0.0,0,888
+Cocoa powder,0,0.0012279983626688497,3,2443
+Cocoa powder,1,0.0,0,333
+Coconut milk (cocos nucifera) liquid,0,0.0,0,1310
+Coconut oil/fat,0,0.0,0,6178
+Coconut water,1,0.0,0,616
+Coconuts,0,0.0,0,2263
+Coconuts,1,0.0,0,1564
+Coconuts and similar-,0,0.0,0,840
+Coffee beans and similar-,0,0.0003677822728944465,1,2719
+"Coffee beans, green",0,0.00039643211100099106,2,5045
+"Coffee beans, green",1,0.00014394702749388226,1,6947
+"Coffee beans, roasted",0,0.0,0,12821
+"Coffee beans, roasted",1,0.0,0,2793
+"Coffee beans, roasted and decaffeinated",1,0.0,0,616
+"Coffee ground, roasted",1,0.0,0,3817
+Coffee ingredients (RPC derivatives),0,0.0006968641114982578,3,4305
+Coloured carrots varieties,0,0.002320185614849188,1,431
+Comb honey,0,0.0,0,423
+Common banana,0,0.00013524784166986002,18,133089
+Common banana,1,0.00014417878168929472,6,41615
+Common banana - acuminata cultivars,0,0.00048426150121065375,2,4130
+Common banana - paradisiaca cultivars,0,0.0,0,705
+Common jasmine infusion flowers,0,0.0007733952049497294,1,1293
+Common millet and similar-,0,0.0005630630630630631,1,1776
+Common millet and similar-,1,0.0,0,924
+Common millet grain,0,0.0001487099412595732,2,13449
+Common millet grain,1,0.0,0,7779
+Common mushrooms,0,4.829459704195593e-05,4,82825
+Common mushrooms,1,0.0,0,12960
+Common peaches,0,0.0002519388336327389,46,182584
+Common peaches,1,0.0,0,4036
+Common vervain infusion leaves,1,0.0,0,275
+Common walnut,0,0.0,0,4
+Common wheat grain,0,0.00012209887974277836,12,98281
+Common wheat grain,1,9.912767644726408e-05,1,10088
+Condensed milk (sometimes with added sugars),0,0.0,0,1
+Cooked cured (or seasoned) poultry meat,0,0.0,0,9
+Cooked pork ham,0,0.0,0,1
+Coriander leaves,0,0.001682049512636936,39,23186
+Coriander leaves,1,0.0,0,1596
+Coriander seed,0,0.0,0,1511
+Cottage cheese,0,0.0,0,527
+Cotton seeds,0,0.0,0,724
+Courgette (edible flowers),0,0.0,0,145
+Courgettes,0,0.0001464973808044038,33,225260
+Courgettes,1,3.0365601846228593e-05,1,32932
+Courgettes and similar-,0,0.00017995321216483713,2,11114
+Courgettes and similar-,1,0.0,0,1695
+Cow milk,0,0.00042370769154080054,17,40122
+Cow milk,1,0.0,0,60
+"Cow milk, natural high fat",0,0.0,0,12654
+"Cow milk, natural high fat",1,0.0,0,1090
+"Cow milk, semi skimmed (half fat)",0,0.0,0,1165
+"Cow milk, semi skimmed (half fat)",1,0.0,0,187
+"Cow milk, skimmed (low fat)",0,0.0,0,314
+"Cow milk, whole",0,0.0,0,19870
+"Cow milk, whole",1,0.0,0,5330
+"Cow, ox or bull fresh meat",0,0.000751597143930853,4,5322
+"Cow, ox or bull fresh meat",1,0.0,0,257
+Cowberries,0,0.0,0,425
+Cowberries,1,0.0,0,431
+Crab apples,0,0.00035001750087504374,3,8571
+Cranberries,0,0.0,0,4657
+Cranberries and similar-,0,0.0,0,1418
+Cranberries and similar-,1,0.0,0,275
+Cream cheese,1,0.0,0,176
+Cream sprayable,0,0.03333333333333333,5,150
+"Cream, plain",0,0.0015600624024961,4,2564
+"Cream, plain",1,0.0,0,11
+Cresses,0,0.00036075036075036075,1,2772
+Crisp lettuces,0,1.1075546301321312e-05,1,90289
+Crisp lettuces,1,0.0,0,3702
+Cucumbers,0,0.0001789372362218328,58,324136
+Cucumbers,1,0.0,0,25845
+Cucumbers and similar-,0,6.3000063000063e-05,1,15873
+Cucumbers and similar-,1,0.0,0,1665
+Cultivated fungi and similar-,0,0.00013360499682688132,4,29939
+Cultivated fungi and similar-,1,0.0,0,650
+Cumin seed,0,0.007578992314261315,71,9368
+Cumin seed,1,0.0,0,603
+Cured seasoned pork meat,0,0.0,0,165
+Curly endives,0,0.00088261253309797,1,1133
+Curly kales,0,0.0010921940250562159,17,15565
+Curly kales,1,0.0,0,309
+"Currants (black, red and white)",0,0.0006324310650139134,10,15812
+Currants and similar-,0,0.0,0,195
+Curry leaves,0,0.0,0,2124
+Cutting lettuces,0,0.0,0,2535
+Cutting lettuces,1,0.0,0,1427
+Daikon,0,0.0,0,435
+Dairy fats,0,0.0,0,9
+Damsons,0,0.004343105320304018,4,921
+Dandelions,0,0.0,0,470
+Dasheen taros,0,0.04878048780487805,4,82
+Dates,0,0.0010072834340616767,13,12906
+Dates,1,0.000407000407000407,1,2457
+Dates and similar-,0,0.0,0,203
+Deer fresh meat,0,0.0,0,1411
+Deer kidney,0,0.0,0,22
+Deer liver,0,0.0016155088852988692,1,619
+"Deer, fallow fresh meat",0,0.0,0,291
+"Deer, fresh fat tissue",0,0.0029239766081871343,1,342
+"Deer, red fresh meat",0,0.0,0,31
+Dill leaves,0,0.00064065230052417,11,17170
+Dill leaves,1,0.0,0,1670
+Dog rose,0,0.0,0,3288
+Dried apples,0,0.0,0,643
+Dried apricots,0,0.000552791597567717,6,10854
+Dried apricots,1,0.0,0,2703
+Dried bananas,0,0.0,0,1121
+Dried bananas,1,0.0,0,1857
+Dried dates,0,0.0013608087091757388,14,10288
+Dried dates,1,0.00033692722371967657,1,2968
+Dried figs,0,0.0,0,3454
+Dried figs,1,0.0,0,277
+Dried fruit,0,0.0008033419023136247,5,6224
+Dried fruit,1,0.0007840062720501764,2,2551
+Dried herbs,0,0.0015060465532409824,101,67063
+Dried herbs,1,0.0004667081518357187,3,6428
+Dried mangoes,0,0.0,0,550
+Dried mangoes,1,0.0010471204188481676,1,955
+Dried mushrooms,0,0.003195644454965085,27,8449
+Dried mushrooms,1,0.008264462809917356,2,242
+Dried nuts/seeds and related flours and powders,0,0.0,0,249
+Dried nuts/seeds and related flours and powders,1,0.0,0,318
+Dried prunes,0,0.0013425071320691392,8,5959
+Dried prunes,1,0.0,0,924
+Dried starchy roots and tuber products,1,0.0,0,308
+Dried vegetables,0,0.002213453950534116,23,10391
+Dried vegetables,1,0.00042498937526561835,1,2353
+Dried vine fruits (raisins etc.),0,0.000921064750851985,80,86856
+Dried vine fruits (raisins etc.),1,0.0,0,16991
+"Duck fat, processed",0,0.0,0,227
+Duck fresh meat,0,0.0,0,10658
+Duck fresh meat,1,0.0,0,179
+Duck liver,0,0.0,0,150
+"Duck, fresh fat tissue",0,0.0,0,1208
+Durians,0,0.011921458625525946,17,1426
+Durum wheat grain,0,6.514657980456026e-05,1,15350
+Durum wheat grain,1,0.0,0,4341
+Eddoe taros,0,0.001160092807424594,1,862
+Einkorn wheat grain,0,0.0,0,268
+Einkorn wheat grain,1,0.0,0,427
+Elderberries,0,0.0,0,2709
+Emmer wheat grain,0,0.0,0,2436
+Emmer wheat grain,1,0.0,0,372
+Enokitake,0,0.0,0,239
+Equine fat tissue,0,0.0,0,612
+Equine liver,0,0.0,0,38
+Equine other slaughtering products (generic),0,0.0,0,20
+Escaroles,0,8.679048776254123e-05,5,57610
+Escaroles,1,0.0,0,2776
+Escaroles and similar-,0,0.0,0,5853
+Essences and extracts,1,0.0,0,568
+European buffalo milk,0,0.0,0,140
+European moose meat,0,0.0,0,3
+"Extra hard cheese (parmesan, grana type)",0,0.0,0,1
+Fennel leaves,0,0.0,0,1094
+Fennel seed,0,0.0057692307692307696,6,1040
+Fenugreek leaves,0,0.0,0,309
+Fenugreek seed,0,0.0,0,1202
+Field beans (dry seeds),0,0.00018824710570074986,6,31873
+Field beans (dry seeds),1,0.0,0,5331
+Figs,0,0.00014631113061926187,4,27339
+Figs,1,0.0,0,1473
+Filberts,0,0.0,0,468
+Fingerrot roots,0,0.0,0,4213
+Firm-ripened blue mould-veined cheese,0,0.0,0,1
+Firm/semi-hard cheese (gouda and edam type),0,0.0,0,413
+Firm/semi-hard cheese (gouda and edam type),1,0.0,0,87
+Flageolets (dry seeds),1,0.0,0,315
+Flat peaches,0,0.0,0,6926
+Florence fennels,0,6.307026026994071e-05,3,47566
+Florence fennels,1,0.0,0,5196
+Florence fennels and similar-,0,0.00020358306188925082,1,4912
+Florence fennels and similar-,1,0.0,0,417
+Flour mix (like wheat/rye/barley/oats and other),0,0.0,0,1663
+Flowers used for herbal infusions,1,0.0,0,240
+"Follow-on formula, based on protein hydrolysates, powder",0,0.0007230657989877079,1,1383
+"Follow-on formula, milk-based, liquid",0,0.0,0,3234
+"Follow-on formula, milk-based, liquid",1,0.0,0,282
+"Follow-on formula, milk-based, powder",0,0.00045597555970999955,10,21931
+"Follow-on formula, milk-based, powder",1,0.00028996713705780014,3,10346
+Follow-on formulae,0,4.954910316123278e-05,1,20182
+Follow-on formulae,1,0.0,0,1197
+"Follow-on formulae, liquid",0,0.0,0,273
+"Follow-on formulae, powder",0,0.00042872454448017146,2,4665
+"Follow-on formulae, powder",1,0.0007288629737609329,1,1372
+Food for infants and young children,0,0.00010410160316468874,1,9606
+French beans (with pods),0,0.000336965067954622,48,142448
+French beans (with pods),1,0.0,0,9768
+French beans canned,0,0.0,0,1181
+Fresh uncured cheese,0,0.0,0,490
+Fruit and vegetable juices and nectars specific for infants and young children,0,0.0,0,13413
+Fruit and vegetable juices and nectars specific for infants and young children,1,0.0,0,18735
+Fruit juice concentrates,1,0.0,0,273
+Fruit juices (100% from named source),0,0.0,0,2754
+Fruit juices (100% from named source),1,0.0,0,957
+Fruit or fruit-vegetable puree,0,0.004329004329004329,1,231
+Fruit or fruit-vegetable puree,1,0.0,0,1890
+Fruit used as fruit,0,0.0,0,166
+Fruiting vegetables,0,0.0,0,530
+Fungi,0,0.0,0,168
+Fuzzy kiwifruit,0,0.0,0,2113
+Fuzzy kiwifruit,1,0.0,0,280
+Gages,0,0.0,0,502
+Galangal roots,0,0.0,0,304
+Garden peas (dry),0,0.0005655042412818096,9,15915
+Garden peas (dry),1,0.0,0,3183
+Garden peas (with pods),0,0.00018542555164101615,2,10786
+Garden peas (without pods),0,0.00012742911755336096,2,15695
+Garden peas (without pods),1,0.0,0,1698
+Garlic,0,9.797677950325773e-05,4,40826
+Garlic,1,0.0,0,2724
+Garlic and similar-,0,0.0,0,5519
+Garlic and similar-,1,0.0,0,634
+Gherkins,0,0.0004634994206257242,18,38835
+Gherkins,1,0.0,0,508
+Gherkins and similar-,0,0.0,0,388
+Gherkins and similar-,1,0.0,0,188
+Ginger roots,0,0.0007495970915632847,20,26681
+Ginger roots,1,7.090941322460557e-05,2,28205
+Ginger roots and similar-,0,0.0,0,279
+Ginger roots spice,0,0.001996007984031936,1,501
+Ginseng and similar-,0,0.0,0,457
+Ginseng infusion roots,0,0.0,0,1
+Ginseng infusion roots,1,0.0,0,764
+Glassworts,0,0.0,0,145
+Globe artichokes,0,6.300403225806451e-05,1,15872
+Globe artichokes,1,0.0,0,815
+Globe artichokes and similar-,0,0.0,0,2696
+Globe artichokes and similar-,1,0.0,0,188
+Globe tomato,0,0.0007385134778709712,14,18957
+Globe tomato,1,0.0,0,2047
+Goat fat tissue,0,0.0,0,3483
+Goat fresh meat,0,0.0,0,1094
+Goat fresh meat,1,0.0,0,200
+Goat kidney,0,0.0,0,5
+Goat liver,0,0.0,0,235
+Goat milk,0,0.0002891844997108155,1,3458
+Goat milk,1,0.0,0,2781
+Gojiberry,0,0.0008365867261572784,3,3586
+Gojiberry,1,0.0,0,1545
+Gold of pleasure seeds,0,0.003432494279176201,3,874
+Golden kiwifruit,0,0.0,0,1817
+Goose carcase,0,0.0,0,2
+"Goose fat, processed",0,0.0,0,580
+Goose fresh meat,0,0.0,0,59
+Goose fresh meat,1,0.0,0,10
+"Goose, fresh fat tissue",0,0.0,0,750
+"Goose, fresh fat tissue",1,0.0,0,39
+"Gooseberries (green, red and yellow)",0,0.0002797273929406978,11,39324
+Graham flour,0,0.0,0,195
+Granadillas,0,0.006684898207231844,22,3291
+Granate apples,0,0.0013056524826485657,342,261938
+Granate apples,1,0.0,0,2446
+Granate apples and similar-,0,0.0009560229445506692,1,1046
+Granate apples and similar-,1,0.0,0,187
+Grape leaves,0,0.013907558680591459,269,19342
+Grape leaves,1,0.0,0,362
+Grape seed oil,0,0.01364522417153996,21,1539
+Grapefruits,0,0.00014369120004840126,38,264456
+Grapefruits,1,0.0,0,6398
+Grapefruits and similar-,0,0.000661875945537065,7,10576
+Grapefruits and similar-,1,0.0,0,209
+Grapes and similar fruits,0,0.0,0,172
+Greater galangal roots,0,0.0,0,431
+Greek bush basil,0,0.0,0,431
+Green onions,0,0.00020861583394179617,4,19174
+Groats,0,0.0,0,3
+Ground cherries (physalis etc.),0,0.0004136504653567735,2,4835
+Guar beans (dry),0,0.0,0,1
+Guavas,0,0.004113345521023766,18,4376
+Guavas and similar-,0,0.0028169014084507044,1,355
+Guinea-fowl fresh meat,0,0.0,0,35
+"Ham, pork",0,0.0,0,108
+"Hard cheese (cheddar, emmental type)",0,0.0,0,371
+"Hard cheese (cheddar, emmental type)",1,0.0,0,78
+Hazelnut infusion leaves,0,0.0,0,308
+Hazelnuts,0,0.0,0,16745
+Hazelnuts,1,0.0,0,2507
+Hazelnuts and similar-,0,0.0,0,1268
+Head cabbages,0,0.00014023475297648264,10,71309
+Head cabbages,1,0.0,0,904
+Head cabbages and similar-,0,0.00010264832683227263,1,9742
+Head cabbages and similar-,1,0.0,0,208
+Head lettuces,0,0.0,0,40935
+Head lettuces,1,0.0,0,2477
+Hedgehog mushrooms,0,0.0,0,516
+Hemp infusion leaves,1,0.0,0,214
+Hemp seeds,0,0.0,0,632
+Hemp seeds,1,0.0,0,644
+Hen egg mixed whole,0,0.0,0,1027
+Hen egg yolk,0,0.0,0,21
+"Hen egg yolk, dried",0,0.0,0,1
+Hen eggs,0,0.0008719726200597302,40,45873
+Hen eggs,1,0.00018070112034694616,1,5534
+Herbal infusion extracts (RPC derivatives),0,0.0008136696501220504,1,1229
+Herbal infusion extracts (RPC derivatives),1,0.0,0,202
+Herbal infusion materials from any other parts of the plant,0,0.0010834926704907585,17,15690
+Herbal infusion materials from leaves and herbs,0,0.0009718172983479105,5,5145
+Herbal infusion materials from leaves and herbs,1,0.0,0,2969
+"Herbal infusions specific for infants and young children, dry",1,0.5,1,2
+Hibiscus infusion flowers,0,0.003605769230769231,3,832
+Hibiscus infusion flowers,1,0.0,0,1
+Holy basil,0,0.0,0,431
+Holy basil,1,0.0,0,283
+Honey,0,0.0002467186420605941,20,81064
+Honey,1,9.942334460131238e-05,1,10058
+"Honey, blended",0,0.0,0,2405
+"Honey, monofloral",0,4.9953792741713915e-05,2,40037
+"Honey, monofloral",1,0.0,0,7734
+"Honey, polyfloral",0,0.00013011515190943984,2,15371
+"Honey, polyfloral",1,0.001579778830963665,1,633
+Honeydew honey,0,0.0,0,747
+Honeydew honey,1,0.0,0,723
+Hop sprouts,1,0.0,0,616
+Hops,0,0.0005026809651474531,3,5968
+Hops,1,0.0005924170616113745,1,1688
+Horse fresh meat,0,0.0,0,1333
+Horse kidney,0,0.0,0,3
+Horse liver,0,0.0,0,213
+"Horse meat, dried",0,0.0,0,10
+Horse mushrooms,0,0.0,0,11025
+"Horse, fresh fat tissue",0,0.0,0,110
+Horseradish roots,0,0.0,0,1865
+Horseradish roots,1,0.0,0,313
+Horseradish roots spice and similar-,0,0.0,0,1811
+Huckleberries,0,1.159205248881367e-05,1,86266
+Huckleberries,1,0.0,0,6538
+Indian rice grain,0,0.0,0,630
+Indian rice grain,1,0.0,0,475
+Infant and follow-on formulae,0,0.0,0,117
+"Infant formula, based on protein hydrolysates, powder",0,0.0007192950908110052,4,5561
+"Infant formula, milk and soya-based, powder",0,0.0,0,347
+"Infant formula, milk-based, liquid",0,0.0,0,6503
+"Infant formula, milk-based, liquid",1,0.0,0,1760
+"Infant formula, milk-based, powder",0,0.0002438599547117227,7,28705
+"Infant formula, milk-based, powder",1,0.0005189413596263622,4,7708
+Infant formulae,0,0.0,0,29447
+Infant formulae,1,0.0,0,2377
+"Infant formulae, liquid",0,0.0,0,1256
+"Infant formulae, powder",0,0.0026845637583892616,8,2980
+"Infant formulae, powder",1,0.0008775778850372971,2,2279
+Insects and arachnids (including species only consumed outside EU),0,0.0,0,50
+Instant coffee powder,1,0.0,0,817
+Isolated proteins and other protein products,0,0.0,0,274
+Isolated proteins and other protein products,1,0.0,0,273
+Jack beans (dry),0,0.0,0,1362
+Jackfruits,0,0.0,0,1804
+Jambuls,0,0.0,0,317
+Japanese plums,0,0.0011037527593818985,1,906
+Jasmine infusion flowers and similar-,0,0.0,0,205
+Jerusalem artichokes,0,0.0,0,6425
+Jerusalem artichokes,1,0.0,0,616
+Jew's ears,0,0.0010070493454179255,1,993
+"Juice concentrate, apple",0,0.0002199736031676199,1,4546
+"Juice concentrate, black currant",0,0.0,0,302
+"Juice concentrate, orange",0,0.0,0,2652
+"Juice concentrate, peach",0,0.001226993865030675,1,815
+"Juice concentrate, plum",0,0.0,0,410
+"Juice concentrate, strawberry",0,0.0,0,276
+"Juice concentrate, strawberry",1,0.0,0,275
+"Juice concentrate, sweet cherry",0,0.0,0,406
+"Juice, apple",0,0.0,0,20781
+"Juice, apple",1,0.0,0,3859
+"Juice, black currant",0,0.0,0,472
+"Juice, black currant",1,0.0,0,1
+"Juice, carrot",0,0.0,0,922
+"Juice, carrot",1,0.0,0,1086
+"Juice, citrus",0,0.0,0,308
+"Juice, cranberry",0,0.0,0,355
+"Juice, cranberry",1,0.0,0,476
+"Juice, elderberry",0,0.0,0,1
+"Juice, elderberry",1,0.0,0,238
+"Juice, grape",0,0.0,0,427
+"Juice, grape",1,0.0,0,917
+"Juice, grapefruit",0,0.005190311418685121,3,578
+"Juice, lemon",0,0.0,0,6637
+"Juice, lemon",1,0.0,0,3433
+"Juice, lime",0,0.0,0,5177
+"Juice, lime",1,0.0,0,4065
+"Juice, mango",0,0.0,0,110
+"Juice, mixed fruit",0,0.0,0,196
+"Juice, nectarine",0,0.0,0,406
+"Juice, orange",0,0.00012367665974077373,5,40428
+"Juice, orange",1,0.0,0,2969
+"Juice, peach",0,0.0,0,638
+"Juice, pear",0,0.0,0,15
+"Juice, pear",1,0.0,0,1
+"Juice, pineapple",0,0.0,0,5004
+"Juice, pineapple",1,0.0,0,274
+"Juice, pomegranate",1,0.0,0,1096
+"Juice, tomato",0,0.001075268817204301,2,1860
+"Juice, tomato",1,0.0,0,322
+Kaffir lime leaves,0,0.011029411764705883,3,272
+Kaffir lime leaves,1,0.0,0,431
+Kaffir limes,0,0.0,0,452
+Kaki,0,0.00045033453422542463,14,31088
+Kaki,1,0.0004752851711026616,1,2104
+Kaki and similar-,0,0.00019036740909956216,2,10506
+Kaki and similar-,1,0.0,0,272
+Kales and similar-,0,0.00038351401104520354,15,39112
+Kales and similar-,1,0.0,0,1865
+Kefir,0,0.0,0,2
+Khorasan wheat grain,0,0.0,0,271
+Kidney bean (dry seeds),0,9.927529038022436e-05,1,10073
+Kidney bean (dry seeds),1,0.0,0,1392
+"Kiwi fruits (green, red, yellow)",0,8.989906504972349e-05,29,322584
+"Kiwi fruits (green, red, yellow)",1,2.9722981809535132e-05,1,33644
+Kiwi fruits and similar-,0,5.1904910204505343e-05,1,19266
+Kiwi fruits and similar-,1,0.0,0,2607
+Kiwiberries,0,0.0,0,687
+Kohlrabi leaves,0,0.0005305039787798408,2,3770
+Kohlrabi leaves,1,0.0,0,2072
+Kohlrabies,0,0.0001376738131891513,11,79899
+Kohlrabies,1,0.0,0,7083
+Kumquats,0,0.0,0,1280
+Kumquats,1,0.0,0,195
+Lamb fresh meat,0,0.0,0,58
+Lamb fresh meat,1,0.0,0,6
+Lamb's lettuces,0,1.3405544533218939e-05,1,74596
+Lamb's lettuces,1,0.0,0,13407
+Lamb's lettuces and similar-,0,0.0,0,927
+Langsats,0,0.004329004329004329,2,462
+Laurel,0,0.0006025911419102139,2,3319
+Leafy brassica,0,0.0008203445447087777,2,2438
+Leafy vegetables,0,0.0,0,1082
+Leeks,0,2.90666692503706e-05,3,103211
+Leeks,1,0.0,0,5457
+Leeks and similar-,0,0.0,0,1874
+Leeks and similar-,1,0.0,0,526
+"Legumes fresh seeds (beans, peas etc.)",0,0.0,0,254
+Legumes with pod,0,0.0,0,8094
+Lemon balm,0,0.0,0,431
+Lemon essence,1,0.0,0,308
+Lemongrass,0,0.0001684352366515075,1,5937
+Lemongrass,1,0.0,0,472
+Lemons,0,0.0006015315065965495,326,541950
+Lemons,1,0.0,0,49281
+Lemons and similar-,0,5.5328095606949206e-05,1,18074
+Lemons and similar-,1,0.0,0,3408
+Lentil (young pods),0,0.0036900369003690036,1,271
+Lentils (dry),0,0.00028750851176515094,19,66085
+Lentils (dry),1,0.00015252621544327932,4,26225
+Lentils (dry) and similar-,0,0.0,0,4253
+Lentils (dry) and similar-,1,0.0,0,1341
+Lentils (without pods),0,0.0003023888720895071,1,3307
+Lentils (without pods),1,0.0,0,763
+"Lentils, fresh",0,0.0,0,730
+Lesser galangal roots,0,0.0,0,431
+Lettuces (generic),0,0.00013225413955456807,15,113418
+Lettuces (generic),1,0.0,0,1176
+Lettuces and similar-,0,0.0005397205122968754,37,68554
+Lettuces and similar-,1,0.0,0,2608
+Lima beans (dry),0,0.0,0,215
+Lima beans (with pods),0,0.0,0,259
+Lime infusion flowers,0,0.004914004914004914,2,407
+Lime infusion flowers and similar-,0,0.0,0,655
+Limes,0,0.0003174284950547982,19,59856
+Limes,1,0.0,0,15425
+Limes and similar-,0,0.0,0,7543
+Limes and similar-,1,0.0,0,1537
+Lingonberries,0,0.0,0,1
+Linseed oil,0,0.0,0,1949
+Linseeds,0,0.00036171122291276184,11,30411
+Linseeds,1,4.415400918403391e-05,1,22648
+Linseeds and similar-,0,0.0,0,83
+Linseeds and similar-,1,0.0,0,508
+Liquid egg products,0,0.0,0,40
+Litchis,0,0.006828703703703704,59,8640
+Lollo rosso,0,0.0001279263144428809,1,7817
+Lollo rosso,1,0.0,0,1567
+Longans,0,0.007876969242310577,21,2666
+Loquats,0,0.0,0,111
+Lovage leaves,0,0.0004528985507246377,1,2208
+Macadamias,0,0.0,0,897
+Main-crop potatoes,0,3.565920497802502e-05,8,224346
+Main-crop potatoes,1,0.0,0,42303
+Maize and similar-,0,0.0,0,35378
+Maize flour,0,0.0001872308556450103,2,10682
+Maize flour,1,0.0,0,2297
+Maize grain,0,6.680472977486806e-05,2,29938
+Maize grain,1,0.00015785319652722967,1,6335
+"Maize oil, edible",0,0.0,0,2223
+"Maize oil, edible",1,0.0,0,293
+Maize semolina,0,0.0,0,12752
+Maize semolina,1,0.0,0,4668
+Maize starch,0,0.0,0,434
+Malay pommarosas,0,0.00946372239747634,3,317
+Mallard fresh meat,0,0.5,1,2
+Mallow infusion leaves,0,0.0,0,208
+Mallow leaves,0,0.003913894324853229,2,511
+Malt coffee ingredient,0,0.0,0,475
+Mammals liver,0,0.0,0,576
+Mammey apple,0,0.0,0,238
+Mandarins,0,0.00021824979073696536,85,389462
+Mandarins,1,0.0,0,8023
+Mandarins and similar-,0,0.00017400382808421786,6,34482
+Mandarins and similar-,1,0.0,0,576
+Mangoes,0,0.00018955549237039144,22,116061
+Mangoes,1,0.0,0,6973
+Mangoes and similar-,0,0.0,0,6380
+Mangosteens,0,0.00044583147570218456,1,2243
+Mangosteens,1,0.0,0,316
+Marjoram,0,0.0,0,1533
+"Marjoram, dry",0,0.0023544184586407157,15,6371
+Mascarpone,0,0.0,0,93
+Mastic thyme,0,0.0,0,212
+Mate and similar-,0,0.0,0,119
+Mate infusion material,0,0.003282994090610637,15,4569
+Mate infusion material,1,0.0,0,408
+Medlars,0,0.00018621973929236498,1,5370
+Medlars and similar-,0,0.0,0,938
+Melons,0,0.00011460770736832052,12,104705
+Melons,1,0.0,0,3058
+Melons and similar-,0,0.0,0,6669
+Melons and similar-,1,0.0,0,720
+Milk,0,0.0,0,1208
+Milk,1,0.0,0,68
+Milk powder,0,0.0,0,574
+"Milk powder, full fat",0,0.0,0,1
+Milk thistle seeds,0,0.002288329519450801,1,437
+Millet flour,0,0.0004889975550122249,1,2045
+Millet groats,0,0.00022087244616234125,4,18110
+Millet rolled grains,0,0.00037253197566124423,3,8053
+Minneolas,0,0.0,0,1135
+Minor honey types,0,0.00033852403520649965,1,2954
+Mints,0,0.0006598482349059716,16,24248
+Mints,1,0.0,0,991
+"Mints, dry",0,0.0006127450980392157,1,1632
+"Mints, dry",1,0.0,0,273
+Mirabelles,0,0.0003049710277523635,2,6558
+Miscellaneous fruits with edible peel,1,0.0,0,222
+Mixed cereal rolled grains,1,0.0,0,307
+Mixed fruit juice,1,0.0,0,1384
+Mizuna,0,0.003246753246753247,1,308
+Morels,0,0.005791505791505791,6,1036
+Moringa (with pods),0,0.0,0,942
+Moringa infusion material,0,0.0,0,308
+Moringa infusion material,1,0.0,0,296
+Morning glory,0,0.0,0,1023
+Moufflon fresh meat,0,0.0,0,10
+Mountain tea,0,0.0,0,2035
+Mountain tea,1,0.0,0,254
+Mozzarella,0,0.0,0,2084
+Mozzarella,1,0.0,0,921
+Mukunuwenna,0,0.003246753246753247,1,308
+Mulberries (black and white),0,0.0,0,831
+Mulberries (black and white),1,0.0,0,838
+Mulberries (black and white) and similar-,0,0.0,0,345
+Mung bean sprouts,0,0.0,0,3022
+Mung beans (dry),0,0.0010922992900054614,4,3662
+Mung beans (dry),1,0.0,0,1525
+Musky strawberries,0,0.0005398839249561345,4,7409
+Mustard seeds,0,0.0009473774868659031,11,11611
+Mustard seeds and similar-,0,0.0,0,618
+Myrtle berries,0,0.0,0,1
+Nameko,0,0.0,0,1
+Naranjillas,0,0.013921113689095127,6,431
+Nashi pears,0,6.364157067396423e-05,1,15713
+Navy beans (dry seeds),0,0.0002330187580100198,2,8583
+Navy beans (dry seeds),1,0.0,0,421
+Nectarines,0,0.00016169840394163637,17,105134
+Nectarines,1,0.0,0,2911
+New potatoes,0,0.00012017545616600236,6,49927
+New potatoes,1,0.0,0,6255
+Non-fermented tea leaves (green or white tea),0,0.0008086017745530836,37,45758
+Non-fermented tea leaves (green or white tea),1,0.0,0,21775
+Northern highbush blueberry,0,0.0,0,3288
+Northern highbush blueberry,1,0.0,0,275
+Nutmeg seed,0,0.0,0,833
+Nutmeg seed and similar-,0,0.0,0,1
+Oat and similar-,0,0.0,0,284
+Oat and similar-,1,0.0,0,2183
+Oat bran,0,0.0,0,211
+Oat bran,1,0.0020855057351407717,2,959
+Oat flour,0,0.0007801833430856252,4,5127
+Oat flour,1,0.0,0,1110
+Oat grain,0,0.00011284134506883322,3,26586
+Oat grain,1,6.170554115759595e-05,1,16206
+"Oat grain, red",0,0.0,0,1761
+Oat groats,0,0.0,0,1228
+Oat high-bran flakes,0,0.0,0,143
+Oat high-bran flakes,1,0.0,0,616
+Oat rolled grains,0,7.164350193437455e-05,1,13958
+Oat rolled grains,1,0.0,0,10665
+"Oat rolled grains, wholemeal",0,0.0,0,464
+Oil palms kernels and similar-,0,0.006896551724137931,1,145
+Oilseeds,0,0.001170046801872075,3,2564
+Okra,0,0.0007439092430723452,16,21508
+Okra and similar-,0,0.0,0,197
+Olive infusion leaves,1,0.0,0,255
+"Olive oil, refined",0,0.0,0,1601
+"Olive oil, virgin or extra-virgin",0,0.00018887524789876287,18,95301
+"Olive oil, virgin or extra-virgin",1,0.00011761938367442955,1,8502
+Olive oils,0,0.0001913143294432753,4,20908
+Olive oils,1,0.0,0,2503
+Olive pomace oil,0,0.0,0,1735
+Olives for oil production,0,0.0,0,2087
+Olives for oil production,1,0.0,0,110
+Onion bulbs for fresh consumption,0,0.0010984987184181618,9,8193
+Onion bulbs for fresh consumption,1,0.0,0,298
+Onions,0,4.885370216069068e-05,18,368447
+Onions,1,0.0,0,41234
+Onions and similar-,0,0.0,0,8309
+Onions and similar-,1,0.0,0,1469
+Oranges,0,0.0001846047270228967,97,525447
+Oranges,1,0.0,0,28456
+Oranges and similar-,0,7.452675510508272e-05,1,13418
+Oranges and similar-,1,0.0,0,1312
+"Oranges, sweet",0,0.0,0,18302
+"Oranges, sweet",1,0.0,0,1675
+Oregano,0,0.00014518002322880372,1,6888
+Oregano,1,0.0,0,1487
+Other Aril spices,0,0.00041911148365465214,1,2386
+Other Bulb vegetables,0,0.0,0,1451
+Other Citrus fruits,0,0.0,0,115
+Other Herbal infusion materials from flowers,0,0.014598540145985401,4,274
+Other Herbal infusion materials from leaves and herbs,0,0.0005115089514066496,1,1955
+Other Herbal infusion materials from leaves and herbs,1,0.0,0,355
+Other Herbal infusion materials from roots,0,0.0,0,121
+"Other Miscellaneous fruits with inedible peel, large",0,0.0,0,964
+Other Pome fruits,0,0.0,0,496
+Other Stone fruits,0,0.0,0,777
+Other cane fruits,1,0.011494252873563218,3,261
+Other cereals,0,0.0,0,493
+Other cereals,1,0.0,0,251
+Other edible flowers,0,0.0,0,308
+Other food for infants and children,0,0.0,0,153
+Other food for infants and children,1,0.0,0,464
+Other head brassica (p),0,0.0,0,573
+Other herbal infusion materials from any other parts of the plant,0,0.0,0,1030
+Other leafy brassica (c),0,0.0,0,110
+Other lettuces and salad plants,0,0.0,0,275
+Other not listed other small fruits and berries,0,0.0,0,2851
+Other pulses,0,0.0,0,198
+Other seeds (including elsewhere non-listed oilseeds and other seeds),0,0.0,0,350
+Other seeds (including elsewhere non-listed oilseeds and other seeds),1,0.0,0,705
+"Other species of genus Pleurotus, not elsewhere mentioned",0,0.0,0,2146
+"Other species of genus Pleurotus, not elsewhere mentioned",1,0.0,0,1682
+"Other species of genus Triticum, not elsewhere mentioned",0,0.0,0,455
+Other spinaches and similar leaves,0,0.004056795131845842,2,493
+Oxheart tomato,1,0.0,0,308
+Pak-choi,0,0.0,0,14345
+Pak-choi,1,0.0,0,1650
+Palm hearts,1,0.0,0,308
+Palm oil/fat,0,0.0,0,4401
+Pancetta,0,0.0,0,112
+Papayas,0,0.0004621751643873028,22,47601
+Papayas,1,0.0,0,1286
+Papayas and similar-,0,0.0,0,1658
+Paprika powder,0,0.005167746698384054,63,12191
+Paprika powder,1,0.0,0,1118
+Parsley,0,0.0004135877357450094,30,72536
+Parsley,1,0.0,0,3036
+Parsley (infusion fruits),0,0.0,0,1
+Parsley and similar-,0,0.0,0,1565
+Parsley roots,0,0.00033460903026120417,16,47817
+Parsley roots,1,0.0,0,5799
+Parsley roots and similar-,0,0.0,0,406
+Parsnip roots,0,9.52018278750952e-05,1,10504
+Parsnip roots,1,0.0,0,8628
+Parsnips and similar-,0,0.0008329862557267805,2,2401
+Partridge fresh meat,0,0.0,0,209
+Passionfruits,0,0.0011846908923865476,49,41361
+Passionfruits,1,0.0005452562704471102,1,1834
+Passionfruits and similar-,0,0.0,0,4709
+"Pasta for children (dry, to be cooked)",0,0.0,0,2726
+"Pasta for children (dry, to be cooked)",1,0.0,0,25
+Peaches and similar-,0,0.00022806908419895918,11,48231
+Peaches and similar-,1,0.0,0,2571
+Peanut butter,0,0.0,0,838
+Peanut butter,1,0.0,0,1128
+"Peanut oil, edible",0,0.0,0,586
+Peanuts,0,0.0002778468332772765,19,68383
+Peanuts,1,0.0,0,5525
+Peanuts (fresh seeds),0,0.0,0,616
+Peanuts and similar-,0,0.0,0,2175
+Pearl onion,0,0.0,0,338
+Pearl oyster mushrooms,0,0.00027344818156959256,1,3657
+Pears,0,0.00013272951310060104,67,504786
+Pears,1,2.9014942695488176e-05,1,34465
+Pears and similar-,0,0.00010648493238206793,1,9391
+Pears and similar-,1,0.0,0,317
+Peas (dry) and similar-,0,0.00018953752843062926,5,26380
+Peas (dry) and similar-,1,0.0,0,1250
+Peas (with pods) and similar-,0,0.0001697408622835804,6,35348
+Peas (with pods) and similar-,1,0.0,0,685
+Peas (without pods) and similar-,0,4.935468746144165e-05,2,40523
+Peas (without pods) and similar-,1,0.0,0,294
+Peas shoots and sprouts,0,0.008823529411764706,6,680
+Peas shoots and sprouts,1,0.008823529411764706,3,340
+Pecans,0,0.0,0,7107
+Pepper leaves,0,0.002564102564102564,1,390
+"Peppercorn (black, green and white)",0,0.004604051565377533,10,2172
+"Peppercorn (black, green and white)",1,0.0,0,308
+"Peppercorn (black, green and white) and similar-",0,0.0,0,2
+Peppermint,0,0.0,0,84
+Peppers and similar-,0,0.00019464720194647202,2,10275
+Peppers and similar-,1,0.0,0,981
+"Peppers, dried",0,0.0025627883136852894,5,1951
+"Peppers, dried",1,0.0,0,308
+Perry,1,0.0,0,308
+Pheasant fresh meat,0,0.0,0,233
+Pickled / marinated vegetables,0,0.005891980360065467,18,3055
+Pickled / marinated vegetables,1,0.0,0,542
+Pig fat tissue,0,3.710437460576602e-05,1,26951
+Pig fat tissue,1,0.0,0,244
+Pig fresh meat,0,0.00012773023374632777,6,46974
+Pig fresh meat,1,0.0,0,2821
+Pig kidney,0,0.0,0,327
+Pig kidney,1,0.0,0,2
+Pig liver,0,0.0014135789248233025,33,23345
+Pig liver,1,0.0,0,194
+Pig minced meat,0,0.0,0,2765
+Pig other slaughtering products,0,0.0,0,23
+Pine nut kernels,0,0.0,0,649
+Pineapples,0,6.941689805632685e-05,7,100840
+Pineapples,1,0.0,0,2240
+Pineapples and similar-,0,0.0,0,2496
+Pistachios,0,0.0010163892770931266,8,7871
+Pistachios,1,0.0,0,308
+Pistachios and similar-,0,0.0,0,17
+Pitayas,0,0.0032931527277246177,53,16094
+Pitayas,1,0.0,0,319
+Plantains,0,0.0,0,13632
+Plantains,1,0.0,0,2772
+Pleurotus,0,0.0003061224489795918,3,9800
+Plum tomato,0,0.00032351989647363315,1,3091
+Plums,0,0.00018916405252455192,48,253748
+Plums,1,0.0,0,8114
+Plums and similar-,0,0.0,0,14221
+Plums and similar-,1,0.0,0,1257
+Podded pea (young pods),0,0.0004226867506916692,11,26024
+Pointed head cabbages,0,0.0,0,8356
+Pointed head cabbages,1,0.0,0,431
+Pomelos,0,0.00028968713789107763,7,24164
+Pomelos,1,0.0,0,308
+Popcorn kernels,0,0.0,0,9151
+Popcorn kernels,1,0.0,0,3332
+Poppy seeds,0,0.0007522837184309511,14,18610
+Poppy seeds,1,0.0,0,10
+Poppy seeds and similar-,0,0.0,0,84
+Pork lard,0,0.0,0,1
+Potato flakes,0,0.0024691358024691358,3,1215
+Potatoes,0,0.00017360337259741143,74,426259
+Potatoes,1,0.0,0,35655
+Potatoes and similar-,0,0.0,0,11348
+Potatoes and similar-,1,0.0,0,1862
+Poultry fat tissue,0,0.0,0,23937
+Poultry fat tissue,1,0.0,0,1892
+Poultry fresh meat (muscle meat),0,0.0,0,329
+Poultry fresh meat (muscle meat),1,0.0,0,34
+Poultry liver,0,1.0,2,2
+Poultry other slaughtering products,0,0.0,0,256
+"Preserved tomato, whole or pieces",0,0.0,0,10966
+"Preserved tomato, whole or pieces",1,0.0,0,1313
+Prickly pears,0,0.00018578727357176033,2,10765
+Prickly pears,1,0.0,0,222
+Prickly pears and similar-,0,0.009569377990430622,8,836
+Prickly pears and similar-,1,0.0,0,110
+Processed cereal-based food for infants and young children,0,0.0003996403237086622,4,10009
+Processed cereal-based food for infants and young children,1,0.0,0,21829
+Processed cheese wedges and similar,0,0.0,0,1
+"Processed cheese, sliceable",0,0.0,0,70
+"Processed cheese, spreadable",0,0.0,0,1
+Processed maize-based flakes,0,0.0,0,4884
+Processed mixed cereal-based flakes,0,0.0,0,135
+Processed oat-based flakes,0,0.0038038884192730348,9,2366
+Processed oat-based flakes,1,0.0,0,1247
+Processed rye-based flakes,0,0.0,0,307
+Processed rye-based flakes,1,0.0,0,308
+Processed wheat-based flakes,0,0.0035335689045936395,2,566
+Pulses (dried legume seeds),0,0.0,0,2960
+Pumpkin seed oil,0,0.003037667071688943,20,6584
+Pumpkin seeds,0,0.0004040812203252854,4,9899
+Pumpkin seeds,1,0.0,0,1966
+Pumpkin seeds and similar-,0,0.0013012361743656475,2,1537
+Pumpkin seeds and similar-,1,0.0,0,214
+Pumpkins,0,7.403490216816499e-05,7,94550
+Pumpkins,1,0.0,0,31167
+Pumpkins and similar-,0,0.00040112314480545525,1,2493
+Pumpkins and similar-,1,0.0,0,373
+Puntarelle,0,0.0,0,186
+Quail eggs,0,0.002320185614849188,2,862
+Quail fresh meat,0,0.0,0,49
+Quark,0,0.0,0,46
+Quinces,0,0.0003821534346039935,4,10467
+Quinces and similar-,0,0.0,0,83
+Quinoa grain,0,0.0002324770428920144,2,8603
+Quinoa grain,1,0.00024080911863862578,3,12458
+Rabbit fresh meat,0,0.0,0,401
+Rabbit liver,0,1.0,1,1
+"Rabbit, fresh fat tissue",0,0.0,0,74
+Radicchio,0,0.0,0,3796
+Radicchio,1,0.0,0,498
+Radish leaves,0,0.0029239766081871343,5,1710
+Radish leaves,1,0.0,0,2070
+Radish sprouts,0,0.008823529411764706,6,680
+Radishes,0,0.0003385675091938591,29,85655
+Radishes,1,0.0,0,3665
+Radishes and similar-,0,0.00010588733587462939,1,9444
+Radishes and similar-,1,0.0,0,311
+Rakkyo,0,0.0,0,289
+Rambutans,0,0.0029455081001472753,8,2716
+"Rape seed oil, edible",0,0.00026896180742334586,4,14872
+"Rape seed oil, edible",1,0.0,0,2883
+Rapeseeds,0,0.002873681185598752,70,24359
+Rapeseeds and similar-,0,0.0,0,5019
+Rapini,0,0.0,0,144
+Raspberries (red and yellow),0,0.00010749477455957002,18,167450
+Raspberries (red and yellow),1,0.0,0,2951
+Raspberries and similar-,0,7.003291547027102e-05,1,14279
+Ratites fresh meat,0,0.0,0,92
+Ratites liver,0,0.0,0,7
+Ready-to-eat cereal-based meal for children,0,0.0,0,290
+Ready-to-eat cereal-based meal for children,1,0.0,0,1406
+Ready-to-eat dairy-based meal for children,0,0.0,0,200
+Ready-to-eat fish-based meal for children,0,0.0,0,1
+Ready-to-eat fruit-based meal for children,0,0.0001952362358453729,5,25610
+Ready-to-eat fruit-based meal for children,1,4.030064279525258e-05,2,49627
+Ready-to-eat meal for infants and young children,0,0.0013408677329757685,14,10441
+Ready-to-eat meal for infants and young children,1,0.0,0,7705
+Ready-to-eat meat-based meal for children,1,0.005405405405405406,3,555
+Ready-to-eat mixed meal for children,0,0.0,0,941
+Ready-to-eat mixed meal for children,1,0.0005284015852047556,2,3785
+Ready-to-eat vegetable-based meal for children,0,0.00028231042854723055,5,17711
+Ready-to-eat vegetable-based meal for children,1,2.8541256386106115e-05,1,35037
+Red cabbages,0,2.5469271324147418e-05,1,39263
+Red cabbages,1,0.0,0,3222
+Red or rosé sparkling wine,0,0.0,0,518
+Red or rosé sparkling wine,1,0.0,0,272
+Red pitayas,0,0.0,0,459
+Red pitayas,1,0.0,0,431
+Redcurrants,0,0.0001223487463623096,14,114427
+Redcurrants,1,0.0,0,2925
+Refined beet sugar,0,0.0,0,726
+Refined cane sugar,0,0.0,0,811
+Reindeer meat,0,0.0,0,424
+Rhubarbs,0,2.160853969488742e-05,1,46278
+Rhubarbs,1,0.0,0,890
+Rice and similar-,0,0.0006452893874714583,13,20146
+Rice and similar-,1,0.0,0,770
+Rice flour,0,0.0003322259136212625,1,3010
+Rice flour,1,0.0,0,2412
+Rice grain,0,0.00039975910620093863,77,192616
+Rice grain,1,0.0,0,25505
+"Rice grain, brown",0,0.000525368952286947,33,62813
+"Rice grain, brown",1,5.5404731564075574e-05,1,18049
+"Rice grain, glutinous",0,0.0005730659025787965,1,1745
+"Rice grain, glutinous",1,0.0,0,547
+"Rice grain, long-grain",0,0.0007748547147409861,62,80015
+"Rice grain, long-grain",1,0.0,0,29214
+"Rice grain, polished",0,0.0004743628444521109,11,23189
+"Rice grain, polished",1,0.0,0,1238
+"Rice grain, red",0,0.0,0,1387
+"Rice grain, red",1,0.0,0,584
+Rice rolled grains,0,0.0,0,283
+Rice rolled grains,1,0.0,0,566
+Ricotta,0,0.0,0,120
+Ricotta,1,0.0,0,61
+Ripened cheese,0,0.0,0,121
+Roe deer meat,0,0.0,0,170
+Romaines,0,0.0,0,27308
+Romaines,1,0.0,0,5336
+Roman rocket,0,0.00010581210792835009,7,66155
+Roman rocket,1,0.0,0,4161
+Roman rocket and similar-,0,0.00047952431188261245,5,10427
+Romanesco cauliflowers,0,0.0005991611743559018,1,1669
+Romanesco cauliflowers,1,0.0,0,489
+Rooibos,0,0.0004878048780487805,2,4100
+Rooibos,1,0.0,0,2966
+Rooibos and similar-,1,0.0,0,317
+Root parsley leaves,0,0.0,0,769
+Rose hips,0,0.0,0,1627
+Rose infusion flowers,0,0.0,0,862
+Rose infusion flowers and similar-,1,0.0,0,282
+Roselle leaves,0,0.0,0,509
+Rosemary,0,0.0,0,7582
+"Rosemary, dry",0,0.0,0,1211
+"Rosemary, dry",1,0.0,0,195
+Royal jelly,0,0.0,0,2
+Royal jelly,1,0.0,0,606
+Rum,1,0.0,0,259
+Rye and similar-,0,0.0,0,14983
+Rye and similar-,1,0.0,0,5722
+Rye flour,0,0.0,0,11440
+Rye flour,1,0.0,0,8381
+"Rye flour, medium",0,0.004335260115606936,9,2076
+"Rye flour, medium",1,0.0,0,308
+"Rye flour, refined",0,0.002533783783783784,3,1184
+"Rye flour, refined",1,0.006430868167202572,4,622
+"Rye flour, wholemeal",0,0.00013553073837146266,5,36892
+"Rye flour, wholemeal",1,5.815813196080142e-05,2,34389
+Rye grain,0,0.00011565312473715199,11,95112
+Rye grain,1,0.0,0,42254
+Rye groats,0,0.0,0,1304
+Rye groats,1,0.0,0,1426
+Rye rolled grains,0,0.0,0,352
+"Safflower seed oil, edible",0,0.004866180048661801,2,411
+"Safflower seed oil, edible",1,0.0,0,308
+Safflower seeds,0,0.0,0,1404
+Saffron,0,0.00392156862745098,1,255
+Saffron,1,0.0,0,254
+Sage,0,0.000547645125958379,1,1826
+"Sage, dry",1,0.0,0,308
+Salaks,0,0.0,0,275
+Salmonberries,0,0.0,0,431
+Salsifies,0,0.0,0,2827
+Salsifies,1,0.0,0,1136
+Salted vegetables,0,0.006334310850439883,54,8525
+Satsumas,0,0.0,0,6055
+Sauerkraut,0,0.0,0,146
+Savoy cabbages,0,0.0001355442100031627,3,22133
+Savoy cabbages,1,0.0,0,2459
+Scorzonera,0,0.0,0,274
+Sea buckthorns,0,0.0005467468562055768,1,1829
+Sea buckthorns,1,0.0,0,275
+Seed oils,0,0.0017421602787456446,1,574
+Seed oils,1,0.0,0,309
+Semolina,0,0.0,0,1380
+Semolina,1,0.0,0,310
+Sesame paste (tahini) (sesamus indicum),0,0.0,0,506
+Sesame paste (tahini) (sesamus indicum),1,0.0,0,209
+"Sesame seed oil, edible",0,0.0,0,377
+"Sesame seed oil, edible",1,0.0,0,3
+Sesame seeds,0,0.0006249081017497427,17,27204
+Sesame seeds,1,0.0,0,3900
+Shaddocks,0,0.00012487512487512488,1,8008
+Shallots,0,0.0001383508577753182,1,7228
+Shallots,1,0.0,0,739
+Sheep (adult) fresh meat,0,0.0,0,184
+Sheep (adult) fresh meat,1,0.0,0,386
+Sheep fat tissue,0,0.00012325390304026294,3,24340
+Sheep fat tissue,1,0.0,0,188
+Sheep fresh meat,0,0.0,0,12978
+Sheep fresh meat,1,0.0,0,250
+Sheep kidney,0,0.0,0,168
+Sheep liver,0,0.0020242914979757085,5,2470
+Sheep liver,1,0.0,0,6
+Sheep milk,0,0.0,0,730
+Sheep milk,1,0.0,0,20
+Shiitake,0,0.0004735969689793985,2,4223
+Shiitake,1,0.0,0,3387
+Shimeji,0,0.0,0,819
+Sichuan pepper fruit and similar-,0,0.006644518272425249,2,301
+Silverskin onions,0,0.0,0,568
+Silverskin onions,1,0.0,0,285
+"Simple cereals for infants or children, reconstituted",0,0.0,0,350
+Simple cereals which have to be reconstituted with milk or other appropriate nutritious liquids,0,0.0,0,791
+Simple cereals which have to be reconstituted with milk or other appropriate nutritious liquids,1,0.0,0,1008
+Small radishes,0,0.0,0,4149
+Small radishes,1,0.0,0,587
+Snow mushrooms,0,0.005791505791505791,3,518
+Soft - ripened cheese,0,0.0,0,2364
+Soft - ripened cheese,1,0.0,0,384
+"Soft-ripened cheese veined with blue mould (blue bavarian, blue de graven type )",0,0.001277139208173691,1,783
+"Soft-ripened cheese veined with blue mould (blue bavarian, blue de graven type )",1,0.0,0,2
+"Soft-ripened cheese with bloomy rind (white mould) (brie, camembert type)",0,0.0,0,47
+Sopropos,0,0.000980392156862745,3,3060
+Sorghum flour,0,0.0,0,502
+Sorghum flour,1,0.0,0,617
+Sorghum grain,0,0.0,0,62
+Sorghum grain,1,0.0,0,152
+Sorrel,0,0.0,0,2021
+Sour cherries,0,0.0005763688760806917,18,31230
+Sour cherries,1,0.0,0,441
+Sour cherry (infusion stems),0,0.0,0,362
+Sour cream products,0,0.0,0,1
+"Sour cream, plain",0,0.0,0,115
+"Soya bean oil, refined",0,0.0006081337894336754,8,13155
+"Soya bean oil, refined",1,0.0,0,135
+Soya flour,0,0.0,0,596
+Soya flour,1,0.0,0,1725
+Soya proteins,1,0.0,0,474
+Soyabeans (oilseed),0,0.0,0,3745
+Soyabeans (oilseed),1,0.0,0,2352
+Soyabeans (with pods),0,0.00234192037470726,5,2135
+Soyabeans (with pods),1,0.0,0,302
+Soyabeans (without pods),0,0.002677376171352075,4,1494
+Soyabeans (without pods),1,0.0,0,584
+Soyabeans and similar-,0,0.0,0,15067
+Soyabeans and similar-,1,0.0,0,214
+Soyabeans for consumption (dry),0,0.0006445375443119562,2,3103
+Soyabeans for consumption (dry),1,0.0,0,7709
+Soyabeans sprouts,0,0.0,0,472
+Sparkling wine,0,0.0,0,1520
+Sparkling wine,1,0.0,0,544
+Spearmint,0,0.0009823182711198428,1,1018
+Special food for children's growth,0,0.0,0,1292
+Spelt flour,0,0.0003213883978788366,2,6223
+"Spelt flour, medium",0,0.0,0,226
+"Spelt flour, medium",1,0.0,0,935
+"Spelt flour, refined",0,0.0,0,1776
+"Spelt flour, refined",1,0.0,0,2783
+"Spelt flour, wholemeal",0,0.0004329004329004329,1,2310
+"Spelt flour, wholemeal",1,0.0,0,909
+Spelt grain,0,7.316894709885125e-05,1,13667
+Spelt grain,1,0.0,0,17892
+Spelt rolled grains,0,0.0,0,385
+Spinach-type leaves,0,0.0,0,145
+Spinaches,0,0.00026892648300447166,43,159895
+Spinaches,1,0.0,0,9027
+Spinaches and similar-,0,0.00014322543683758235,1,6982
+Spinaches and similar-,1,0.0,0,525
+Spirits from fruit,0,0.0,0,309
+Spirulina,1,0.0,0,307
+Spring onions,0,0.00015080681646810435,4,26524
+Spring onions,1,0.0,0,1489
+Spring onions and similar-,0,0.0,0,6973
+Spring onions and similar-,1,0.0,0,317
+"Sprouts, shoots and similar",0,0.0,0,4265
+"Sprouts, shoots and similar",1,0.0,0,706
+St. John´s Wort infusion leaves,0,0.02857142857142857,1,35
+St. John´s Wort infusion leaves,1,0.0,0,2
+Star anise fruit,0,0.0,0,560
+Stem kale,0,0.003289473684210526,1,304
+Strawberries,0,0.00015109304433856433,73,483146
+Strawberries,1,0.0,0,11302
+Strawberries and similar-,0,6.223937262712393e-05,1,16067
+Strawberries and similar-,1,0.0,0,1160
+Sugar beet roots,0,0.0,0,2101
+Sugar canes,0,0.0,0,8
+Sugar loaf chicories,0,0.0,0,11724
+Summer savory,0,0.0017605633802816902,1,568
+Summer squashes,0,0.0,0,2046
+Sunflower infusion flowers,0,0.004127115146512587,40,9692
+"Sunflower seed oil, edible",0,7.70383651058227e-05,11,142786
+"Sunflower seed oil, edible",1,0.0,0,2276
+Sunflower seeds,0,0.00046954107463661603,23,48984
+Sunflower seeds,1,0.0,0,7233
+Sunflower seeds and similar-,0,0.0,0,3652
+Swedes,0,0.0,0,16078
+Swedes,1,0.0,0,199
+Swedes and similar-,0,0.0,0,2852
+Swedes and similar-,1,0.0,0,317
+Sweet Chestnut,0,0.0,0,83
+Sweet Chestnut,1,0.0,0,308
+Sweet corn,0,0.0,0,18327
+Sweet corn,1,0.0,0,1262
+Sweet corn and similar-,0,0.0,0,317
+Sweet corn canned,0,0.0,0,607
+Sweet peppers,0,0.0003397181956681648,714,2101742
+Sweet peppers,1,0.0,0,21040
+Sweet potato leaves,0,0.0,0,111
+Sweet potatoes,0,0.00022320681227191053,20,89603
+Sweet potatoes,1,0.00030950170225936243,1,3231
+Sweet potatoes and similar-,0,0.0,0,3914
+Sweeties,0,0.0,0,353
+Sweeties,1,0.0,0,431
+Sweetsops,0,0.006622516556291391,2,302
+Swiss chards,0,0.0,0,315
+Syrups,1,0.0,0,1909
+Table grapes,0,0.00020750960432965986,74,356610
+Table grapes,1,0.0,0,9524
+Table grapes and similar-,0,0.0001816310468002664,3,16517
+Table grapes and similar-,1,0.0,0,834
+Table olives,0,0.00034704147145583897,8,23052
+Table olives,1,0.0,0,998
+Table olives and similar-,0,0.0,0,110
+Table olives ready for consumption,0,0.00035067724543023715,8,22813
+Tahiti limes,0,0.00037897928246589187,6,15832
+Tamarillos,0,0.002177858439201452,6,2755
+Tangelos (except minneolas),0,0.0,0,144
+Tangerines,0,0.0,0,1698
+Tankan mandarin,0,0.00044365572315882877,2,4508
+Tannias,0,0.16666666666666666,5,30
+"Tansy and related species, dry",0,0.0,0,242
+Tapioca starch,0,0.0,0,308
+Taros,0,0.0,0,1472
+Tarragon,0,0.0003546099290780142,1,2820
+Tea extract (powder),0,0.003663003663003663,2,546
+Tea extract (powder),1,0.0,0,308
+Tea leaves and stalks decaffeinated,0,0.0,0,515
+Tea leaves and stalks with fruit and flavours,0,0.0,0,1030
+Tea leaves and stalks with fruit and flavours,1,0.0,0,1372
+"Tea leaves and stalks, fermented",0,0.0005312167989500657,34,64004
+"Tea leaves and stalks, fermented",1,0.00013092432573972245,2,15276
+Tea leaves derivatives and tea ingredients,0,0.0,0,55
+Tea powder ingredients and extracts,0,0.000527203711514129,5,9484
+Tea powder ingredients and extracts,1,0.0,0,407
+"Teas leaves, dry and/or fermented, and similar",0,0.0006639224538573894,25,37655
+"Teas leaves, dry and/or fermented, and similar",1,0.0,0,7441
+Teff grain,1,0.0,0,411
+Thai basil,0,0.0,0,273
+Thyme,0,0.0007366482504604051,6,8145
+Thyme,1,0.0,0,304
+Thyme and similar-,0,0.0,0,2104
+"Thyme, dry",0,0.002702702702702703,2,740
+"Thyme, dry",1,0.0,0,195
+Tigernuts,0,0.0,0,574
+Tomatillos,0,0.0,0,272
+Tomato paste,0,0.0027991602519244225,4,1429
+Tomato paste,1,0.0,0,414
+Tomato puree,0,0.00042924595793389613,3,6989
+Tomatoes,0,0.0001473026548608978,82,556677
+Tomatoes,1,4.7707647535900004e-05,1,20961
+Tomatoes and similar-,0,6.269592476489028e-05,1,15950
+Tomatoes and similar-,1,0.0,0,4879
+Traditional buttermilk (churning),0,0.0,0,11
+Tree nuts,0,0.0,0,1027
+Tree onions,0,0.0,0,144
+Triticale grain,0,0.0,0,1860
+Triticale grain,1,0.0,0,924
+Truffles,0,0.0,0,719
+Turkey berries,0,0.0,0,862
+Turkey fresh meat,0,0.0,0,3464
+Turkey liver,0,0.0,0,725
+"Turkey, fresh fat tissue",0,0.000657030223390276,1,1522
+"Turkey, fresh fat tissue",1,0.0,0,39
+Turmeric roots,0,0.0007390983000739098,2,2706
+Turmeric roots,1,0.0,0,3734
+Turmeric roots and similar-,0,0.0,0,310
+Turmeric roots and similar-,1,0.0,0,308
+Turnip tops,0,0.0,0,144
+Turnips,0,0.0,0,31752
+Turnips,1,0.0,0,2163
+Turnips and similar-,1,0.0,0,598
+"Turtle, green",0,0.0,0,115
+Ugli fruits,0,0.0,0,476
+Undefined mixed poultry fresh meat,0,0.0,0,1
+Vanilla,0,0.0,0,206
+Vanilla,1,0.0,0,911
+Vanilla and similar-,0,0.0033783783783783786,1,296
+Vanilla and similar-,1,0.0,0,1540
+Vanilla essence,1,0.0,0,616
+Vanilla pods extract,0,0.0,0,242
+Veal kidney,0,0.01098901098901099,1,91
+Veal liver,0,0.00018088088993397847,2,11057
+Vegetable juice concentrate,0,0.0,0,614
+Vegetable puree or paste,0,0.0,0,509
+Vegetable puree or paste,1,0.0,0,309
+Vinegar,1,0.0,0,308
+"Vinegar, apple",1,0.0,0,1540
+Walnut infusion leaves,0,0.3333333333333333,2,6
+Walnut oil,0,0.0,0,975
+Walnuts,0,0.0,0,35564
+Walnuts,1,0.0002581977794990963,1,3873
+Walnuts and similar-,0,0.0,0,2847
+Water buffalo milk,0,0.0,0,47
+Watercresses,0,0.0,0,1140
+Watercresses and similar-,0,0.0,0,254
+Watermelon seeds,0,0.0,0,146
+Watermelons,0,0.0002637246714430135,12,45502
+Watermelons,1,0.0,0,3573
+Watermelons and similar-,0,0.000683900971139379,5,7311
+Watermelons and similar-,1,0.0,0,376
+Welsh onions,0,9.909084152897168e-05,4,40367
+Welsh onions,1,0.0,0,474
+Wheat and similar-,0,2.809725396171281e-05,3,106772
+Wheat and similar-,1,0.00018982536066818528,1,5268
+Wheat bran,0,0.00844205679201842,11,1303
+Wheat bran,1,0.005405405405405406,1,185
+Wheat coffee ingredient,0,0.0,0,1116
+Wheat flour,0,0.00014289797084881395,2,13996
+Wheat flour,1,0.0,0,1790
+Wheat flour white,0,5.886392622387913e-05,3,50965
+Wheat flour white,1,0.0,0,13404
+"Wheat flour, brown",0,0.0,0,1499
+"Wheat flour, brown",1,0.0,0,3495
+"Wheat flour, durum",0,0.0,0,3184
+"Wheat flour, durum",1,0.0,0,762
+Wheat groats,0,0.0,0,4416
+Wheat rolled grains,0,0.0,0,620
+Wheat rolled grains,1,0.0,0,185
+Wheat semolina,0,0.0,0,897
+Wheat semolina,1,0.0,0,310
+Wheat wholemeal flour,0,1.870592416618343e-05,1,53459
+Wheat wholemeal flour,1,0.00020682523267838676,2,9670
+Wheatgrass,0,0.0,0,136
+Whey powder,0,0.0,0,63
+Whisky,1,0.0,0,259
+White cabbage,0,2.270972430394695e-05,1,44034
+White cabbage,1,0.0,0,3620
+White mulberries,1,0.0,0,308
+White mustard seeds,0,0.0,0,352
+White pepper,0,0.0,0,648
+White pepper,1,0.0,0,308
+Whole eggs,0,0.0,0,43
+Wild boar fresh meat,0,0.0012626262626262627,3,2376
+Wild boar liver,0,0.0,0,47
+"Wild boar, fresh fat tissue",0,0.04895104895104895,7,143
+Wild chicories,0,0.0,0,145
+Wild fungi and similar-,0,0.0018885741265344666,2,1059
+Wild fungi and similar-,1,0.0,0,258
+Wild strawberries,0,0.002257336343115124,1,443
+Wild sweetsops,0,0.0,0,272
+Wine,0,0.0,0,4849
+Wine,1,0.0,0,5012
+Wine grapes,0,0.0001868188894654904,9,48175
+Wine grapes,1,0.0,0,3271
+Wine grapes and similar-,0,0.0,0,4071
+Wine grapes and similar-,1,0.0,0,414
+"Wine, red",0,0.0005540524318284653,60,108293
+"Wine, red",1,0.0,0,18119
+"Wine, rosé",0,0.0,0,13728
+"Wine, rosé",1,0.0,0,6898
+"Wine, white",0,2.9036847759807197e-05,2,68878
+"Wine, white",1,0.0,0,18354
+Winter savory,0,0.0,0,495
+Winter squashes,0,0.0,0,5544
+Winter squashes,1,0.0,0,1853
+Witloofs,0,0.0,0,42991
+Witloofs,1,0.0,0,874
+Witloofs and similar-,0,0.0,0,284
+Ya pears,0,0.0011494252873563218,1,870
+Yams,0,0.0011265490048817123,3,2663
+Yams and similar-,0,0.0,0,450
+Yardlong beans (with pods),0,0.0023542194856935894,39,16566
+Yarrow infusion flowers,0,0.0,0,283
+Yoghurt,0,0.0,0,55
+"Yoghurt, cow milk",0,0.0,0,112
+"Yoghurt, cow milk, flavoured",0,0.0,0,46
+"Yoghurt, cow milk, plain",0,0.0,0,2335
+"Yoghurt, cow milk, plain",1,0.0,0,712

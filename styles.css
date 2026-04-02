@@ -1,0 +1,489 @@
+:root {
+  --bg: #f5f3ee;
+  --surface: #fffdf8;
+  --surface-strong: #ffffff;
+  --text: #172029;
+  --muted: #5b6773;
+  --line: #d8d3ca;
+  --accent: #275dad;
+  --organic: #2d8f57;
+  --conventional: #b6632f;
+  --pct-low:  #2d8f57;
+  --pct-mid:  #c47d0e;
+  --pct-high: #c0392b;
+  --shadow: 0 18px 40px rgba(18, 27, 38, 0.08);
+  --radius: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: linear-gradient(180deg, #f3efe7 0%, #f8f6f1 220px, var(--bg) 100%);
+  color: var(--text);
+}
+
+code {
+  font-family: "SFMono-Regular", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+.layout {
+  width: min(1160px, calc(100vw - 2rem));
+  margin: 0 auto;
+}
+
+.hero {
+  padding: 4.5rem 0 2.5rem;
+}
+
+.hero__content {
+  padding: 2rem 0 1rem;
+}
+
+.hero__topline {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  align-items: end;
+}
+
+.eyebrow,
+.section-label {
+  margin: 0 0 0.5rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.hero h1,
+.panel h2 {
+  margin: 0;
+  line-height: 1.05;
+}
+
+.hero h1 {
+  max-width: 11ch;
+  font-size: clamp(2.6rem, 7vw, 4.8rem);
+}
+
+.hero__lede {
+  max-width: 52rem;
+  margin: 1.25rem 0 0;
+  font-size: clamp(1.05rem, 2vw, 1.28rem);
+  line-height: 1.6;
+  color: var(--muted);
+}
+
+.hero__chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.75rem;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.72rem 1rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(216, 211, 202, 0.9);
+  color: var(--text);
+  font-weight: 600;
+}
+
+main {
+  padding-bottom: 3rem;
+}
+
+.panel {
+  background: rgba(255, 253, 248, 0.88);
+  border: 1px solid rgba(216, 211, 202, 0.8);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.5rem;
+  margin-bottom: 1.25rem;
+  backdrop-filter: blur(10px);
+}
+
+.notice {
+  border-color: rgba(182, 99, 47, 0.35);
+  background: rgba(182, 99, 47, 0.08);
+}
+
+.intro-grid,
+.narrative {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: minmax(0, 1.5fr) minmax(290px, 1fr);
+}
+
+.metric-cards {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+}
+
+.metric-card,
+.callout,
+.product-panel,
+.detail-card {
+  background: var(--surface-strong);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+}
+
+.metric-card {
+  padding: 1rem;
+}
+
+.metric-card__label {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.metric-card__value {
+  margin: 0.4rem 0 0;
+  font-size: 1.95rem;
+  font-weight: 700;
+}
+
+.metric-card__note {
+  margin: 0.4rem 0 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.callout {
+  padding: 1.1rem 1.15rem;
+}
+
+.callout__title {
+  margin: 0 0 0.35rem;
+  font-weight: 700;
+}
+
+.section-block {
+  padding-top: 1.2rem;
+}
+
+.section-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  align-items: end;
+}
+
+.section-copy {
+  max-width: 34rem;
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+  margin-top: 1.2rem;
+}
+
+.controls label {
+  display: grid;
+  gap: 0.45rem;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+select,
+input {
+  min-width: 180px;
+  appearance: none;
+  border: 1px solid var(--line);
+  background: var(--surface-strong);
+  border-radius: 12px;
+  color: var(--text);
+  padding: 0.75rem 0.95rem;
+  font: inherit;
+}
+
+input {
+  width: min(400px, 100%);
+}
+
+.chart-shell {
+  margin-top: 1.25rem;
+  background: var(--surface-strong);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 1rem;
+}
+
+.chart-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: baseline;
+  margin-bottom: 0.75rem;
+}
+
+.chart-header h3 {
+  margin: 0;
+}
+
+.chart-header p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.chart {
+  position: relative;
+  min-height: 460px;
+  max-height: 34rem;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 0.35rem;
+  scrollbar-gutter: stable;
+}
+
+.chart svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.chart::-webkit-scrollbar {
+  width: 10px;
+}
+
+.chart::-webkit-scrollbar-thumb {
+  background: rgba(91, 103, 115, 0.35);
+  border-radius: 999px;
+}
+
+.axis-label {
+  fill: var(--muted);
+  font-size: 12px;
+}
+
+.bar-label {
+  fill: var(--text);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.chart-note {
+  fill: var(--muted);
+  font-size: 11px;
+}
+
+.tooltip {
+  position: fixed;
+  z-index: 10;
+  max-width: 320px;
+  padding: 0.75rem 0.85rem;
+  background: rgba(20, 26, 32, 0.94);
+  color: white;
+  border-radius: 12px;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.22);
+  pointer-events: none;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.tooltip strong {
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+.product-summary {
+  margin-top: 1rem;
+  font-size: 1rem;
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.product-panels {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.product-panel {
+  padding: 1rem;
+}
+
+.product-panel--organic {
+  border-color: rgba(45, 143, 87, 0.28);
+  background: linear-gradient(180deg, rgba(45, 143, 87, 0.06), rgba(255, 255, 255, 0.96));
+}
+
+.product-panel--conventional {
+  border-color: rgba(182, 99, 47, 0.28);
+  background: linear-gradient(180deg, rgba(182, 99, 47, 0.06), rgba(255, 255, 255, 0.96));
+}
+
+.product-panel h3 {
+  margin-top: 0;
+}
+
+.detail-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.85rem;
+}
+
+.detail-card {
+  padding: 0.85rem;
+  overflow: visible;
+}
+
+.detail-card__label {
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+.detail-card__value {
+  margin: 0.35rem 0 0;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+.detail-card__percentile {
+  margin-top: 0.65rem;
+}
+
+.detail-card__percentile-bar {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 6px;
+  border-radius: 999px;
+  background: linear-gradient(
+    to right,
+    var(--pct-color, var(--accent)) var(--pct, 0%),
+    var(--line) var(--pct, 0%)
+  );
+}
+
+.detail-card__percentile-marker {
+  display: block;
+  position: absolute;
+  top: 50%;
+  width: 12px;
+  height: 12px;
+  background: var(--accent);
+  border: 2px solid white;
+  border-radius: 50%;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  transform: translate(-50%, -50%);
+}
+
+.detail-card__percentile-label {
+  margin: 0.35rem 0 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+  line-height: 1.3;
+}
+
+.detail-card .detail-card__percentile-label:only-of-type {
+  margin-top: 0.55rem;
+}
+
+.method-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.method-grid h3 {
+  margin-bottom: 0.5rem;
+}
+
+.method-grid p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.source-line {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+}
+
+.source-line p {
+  margin: 0;
+  font-size: 0.92rem;
+  color: var(--muted);
+}
+
+.source-line a,
+.site-footer a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.source-line a:hover,
+.site-footer a:hover {
+  text-decoration: underline;
+}
+
+.site-footer {
+  padding: 1.5rem 0 2.5rem;
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+@media (max-width: 960px) {
+  .hero__topline,
+  .intro-grid,
+  .narrative,
+  .section-heading,
+  .product-panels,
+  .method-grid {
+    grid-template-columns: 1fr;
+    display: grid;
+  }
+
+  .section-heading {
+    align-items: start;
+  }
+}
+
+@media (max-width: 680px) {
+  .layout {
+    width: min(100vw - 1rem, 100%);
+  }
+
+  .panel {
+    padding: 1rem;
+  }
+
+  .metric-cards,
+  .detail-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .chart {
+    min-height: 380px;
+  }
+}
