@@ -90,7 +90,6 @@ def main(input_path: Path, output_dir: Path) -> None:
             p95_substances_found=("substances_found", q95),
             samples=("substances_found", "size"),
         )
-        .query("samples > 10")
         .rename_axis(["product", "organic"])
     )
 
